@@ -73,16 +73,12 @@ function AppLayoutDocs(props) {
   const {
     children,
     description,
-    disableAd = false,
+    disableAd = true,
     disableToc = false,
     location,
     title,
     toc,
   } = props;
-
-  if (description === undefined) {
-    throw new Error('Missing description in the page');
-  }
 
   return (
     <AppFrame>

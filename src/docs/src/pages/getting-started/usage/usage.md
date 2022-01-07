@@ -1,61 +1,44 @@
 # Usage
 
-<p class="description">Get started with React and MUI in no time.</p>
+<p class="description">Get started with Airslip in no time.</p>
 
-MUI components work in isolation.
-**They are self-supporting**, and will only inject the styles they need to display.
-They don't rely on any global style-sheets such as [normalize.css](https://github.com/necolas/normalize.css/).
+## How do I access the Airslip Portal?
+The Airslip implementation team will invite you onto the Airslip portal. Once you have access you are able to invite more users to the Portal, provided you have Administrator rights.
 
-You can use any of the components as demonstrated in the documentation.
-Please refer to each component's [demo page](/components/buttons/) to see how they should be imported.
+| Environment |	Airslip Portal URL |
+| :- | :- |
+| Sandbox | https://sandbox-secure.airslip.com |
+| Production | https://secure.airslip.com |
 
-## Quick start
+## How do I log in to the Airslip Portal?
+By going to one of the above links and entering your login credentials provided by the Airslip team. If you would like to sign up, please email <partners@airslip.com> and we can get you set up.
 
-Here's a quick example to get you started, **it's literally all you need**:
+*Logic Screen*
 
-```jsx
-import * as React from 'react';
-import ReactDOM from 'react-dom';
-import Button from '@mui/material/Button';
+![Dashboard Image 1](https://static.wikia.nocookie.net/theallever/images/0/0a/THE_Preview_logo.jpg/revision/latest/scale-to-width-down/700?cb=20201013032038)
 
-function App() {
-  return <Button variant="contained">Hello World</Button>;
-}
+## How do I invite a business?
 
-ReactDOM.render(<App />, document.querySelector('#app'));
-```
+Write here
 
-Yes, this really is all you need to get started, as you can see in this live and interactive demo:
+*Invite Business Screen*
 
-{{"demo": "pages/getting-started/usage/Usage.js", "hideToolbar": true, "bg": true}}
+![Dashboard Image 1](https://static.wikia.nocookie.net/theallever/images/0/0a/THE_Preview_logo.jpg/revision/latest/scale-to-width-down/700?cb=20201013032038)
 
-## Globals
+## How does a business link their banking, commerce or banking platform?
 
-MUI usage experience can be improved with a handful of important globals that you'll need to be aware of.
+Write here
 
-### Responsive meta tag
+*Add Provider Screen*
 
-MUI is developed mobile-first, a strategy in which we first write code for mobile devices, and then scale up components as necessary using CSS media queries.
-To ensure proper rendering and touch zooming for all devices, add the responsive viewport meta tag to your `<head>` element.
+![Dashboard Image 1](https://static.wikia.nocookie.net/theallever/images/0/0a/THE_Preview_logo.jpg/revision/latest/scale-to-width-down/700?cb=20201013032038)
 
-```html
-<meta name="viewport" content="initial-scale=1, width=device-width" />
-```
 
-### CssBaseline
-
-MUI provides an optional [CssBaseline](/components/css-baseline/) component.
-It fixes some inconsistencies across browsers and devices while providing slightly more opinionated resets to common HTML elements.
-
-## Versioned Documentation
-
-This documentation always reflects the latest stable version of MUI.
-You can find older versions of the documentation on a [separate page](https://mui.com/versions/).
 
 ## Next steps
 
-Now that you have an idea of the basic setup, it's time to learn more about:
+Now you are setup, it is time to learn more about:
 
-- How to provide [the Material Design font and typography](/components/typography/).
-- How to take advantage of the [theming solution](/customization/theming/).
-- How to [override](/customization/how-to-customize/) the look and feel of the components.
+- What [metrics](/components/typography/) are avilable.
+- What the data models for [banking](/data-model/banking/), [commerce](/data-model/commerce/) and [accounting](/data-model/accounting/) look like.
+- How to manage [businesses](/customization/how-to-customize/) and [users](/customization/how-to-customize/).
