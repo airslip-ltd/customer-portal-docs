@@ -1,0 +1,1679 @@
+# Banking
+
+<p class="description">We currently support 1,636 banking institutions from 16 different countries in Europe and continuing to grow each week.</p>
+
+## Austria
+- BAWAG PSK / Easybank
+- Bank Austria 24You
+- Bank Austria UC eBanking Global
+- Erste Bank
+- ING
+- N26
+- N26 (Token)
+- Paypal EU
+- Raiffeisen Bank Austria
+- Revolut EU
+
+## Belgium
+
+- ABN AMRO
+- ABN AMRO Belgium
+- ABN AMRO Belgium
+- Fintro
+- Fintro Corporate
+- Fortis
+- Fortis Corporate
+- HelloBank BE
+- N26
+- Paypal EU
+- Revolut EU
+
+## Denmark
+
+- Andelskassen Faelleskassen
+- Arbejdernes Landsbank
+- BIL Danmark filial af Banque Int. à Luxembourg SA
+- Coop Bank
+- Danske Bank - Denmark
+- Danske Bank Business Denmark
+- Faster Andelskasse
+- Frorup Andelskasse
+- Froslev - Mollerup Sparekasse
+- Fynske Bank
+- Handelsbanken - Denmark
+- Hvidbjerg Bank A/S
+- Laegernes Bank
+- Lollands Bank
+- Maj Bank A/S
+- Merkur Andelskasse
+- Mons Bank
+- N26
+- Nordea - Business - Denmark
+- Nordea - Personal - Denmark
+- Nykredit Bank A/S
+- Paypal EU
+- PenSam
+- Revolut EU
+- Salling Bank A/S
+- Skandinaviska Enskilda Banken Danmark
+- Spar Nord Bank A/S
+- Swedbank
+- Totalbanken A/S
+- Vestjysk Bank
+
+## Estonia
+
+- Luminor Estonia
+- N26
+- Paypal EU
+- Revolut EU
+- Swedbank - Estonia
+
+## Finland
+
+- Amex
+- Danske Bank - Finland
+- Danske Bank Business Finland
+- Handelsbanken - Finland
+- Handelsbanken Business - Finland
+- N26
+- Nordea - Business - Finland
+- Nordea - Personal - Finland
+- Paypal EU
+- Revolut EU
+
+## France
+
+- Allianz Banque
+- Amex
+- Arkéa Banking Services
+- Arkéa Banque Entreprises
+- Arkéa Banque Privée
+- Aumax
+- B.P AUvergne et Rhone-Alpes
+- B.P Alsace Lorraine Champagne
+- B.P Aquitaine Centre Atlantique
+- B.P Bourgogne Franche Comte
+- B.P Grand Ouest
+- B.P Mediterranee
+- B.P OCcitane
+- B.P RIves de Paris BICS
+- B.P Sud
+- B.P Val de France
+- B.P du Nord
+- BNP Paribas - Mabanque
+- BNP Paribas - Mabanque Corporate
+- BQGTB ex-TTS
+- Banque BCP
+- Banque Chalus
+- Banque Palatine
+- Banque de Savoie
+- Boursorama
+- CMM Grand Ouest
+- CMM Littoral du Sud Ouest
+- Caisse d Epargne Aquitaine Poitou-Charentes
+- Caisse d Epargne Auvergne et Limousin
+- Caisse d Epargne Bourgogne Franche-Comte
+- Caisse d Epargne Bretagne-Pays De Loire
+- Caisse d Epargne Cote d Azur
+- Caisse d Epargne Grand Est Europe
+- Caisse d Epargne Hauts de France
+- Caisse d Epargne Ile De France
+- Caisse d Epargne Languedoc-Roussillon
+- Caisse d Epargne Loire Drôme Ardèche
+- Caisse d Epargne Loire-Centre
+- Caisse d Epargne Midi-Pyrenees
+- Caisse d Epargne Normandie
+- Caisse d Epargne Provence Alpes Corse
+- Caisse d Epargne Rhône Alpes
+- Credit Cooperatif
+- Credit Mutuel
+- Crédit Agricole Alpes Provence
+- Crédit Agricole Alsace Vosges
+- Crédit Agricole Atlantique Vendée
+- Crédit Agricole Brie Picardie
+- Crédit Agricole Champagne-Bourgogne
+- Crédit Agricole Charente Périgord
+- Crédit Agricole Charente-Maritime Deux-Sèvres
+- Crédit Agricole Nord Midi-Pyrénées
+- Crédit Agricole Pyrénées Gascogne
+- Crédit Agricole Sud Méditerranée
+- Crédit Agricole Sud Rhône-Alpes
+- Crédit Agricole Toulouse31
+- Crédit Agricole Val De France
+- Crédit Agricole d'Aquitaine
+- Crédit Agricole d'Ille-et-Vilaine
+- Crédit Agricole de Centre France
+- Crédit Agricole de Centre Loire
+- Crédit Agricole de Centre-Est
+- Crédit Agricole de Franche-Comté
+- Crédit Agricole de Guadeloupe
+- Crédit Agricole de Loire Haute-Loire
+- Crédit Agricole de Lorraine
+- Crédit Agricole de Nord De France
+- Crédit Agricole de Normandie
+- Crédit Agricole de Normandie-Seine
+- Crédit Agricole de Paris et d'Ile-de-France
+- Crédit Agricole de Provence Côtes d'Azur
+- Crédit Agricole de l'Anjou et du Maine
+- Crédit Agricole de la Corse
+- Crédit Agricole de la Martinique et de la Guyane
+- Crédit Agricole de la Réunion
+- Crédit Agricole de la Touraine et du Poitou
+- Crédit Agricole des Côtes d'Armor
+- Crédit Agricole des Savoie
+- Crédit Agricole du Centre Ouest
+- Crédit Agricole du Finistère
+- Crédit Agricole du Languedoc
+- Crédit Agricole du Morbihan
+- Crédit Agricole du Nord Est
+- Crédit Mutuel de Bretagne
+- Crédit Mutuel du Sud-Ouest
+- Fortuneo Banque
+- HelloBank
+- ING
+- La Banque Postale
+- N26
+- N26 (Token)
+- Paypal EU
+- Qonto
+- Revolut EU
+- Societe Generale - Personal
+- Societe Generale Business
+- Societe Generale Entreprises
+- WMN
+
+## Germany
+
+- ABN AMRO
+- Aachener Bank eG
+- Abtsgmünder Bank -Raiffeisen- eG
+- Airbus Bank GmbH
+- Aktivbank AG
+- Allgäuer Volksbank eG Kempten-Sonthofen
+- Alxing-Brucker Genossenschaftsbank eG
+- BBBank eG
+- BSK Reichenau
+- BTV Bank für Tirol und Vorarlberg AG Zweigniederlassung Deutschland
+- Bank 1 Saar eG
+- Bank für Kirche und Caritas eG
+- Bank für Kirche und Diakonie eG - KD-Bank
+- Bank im Bistum Essen eG
+- Bank11 für Privatkunden und Handel GmbH
+- Bankhaus Bauer Aktiengesellschaft
+- Bankhaus E. Mayer AG
+- Bankhaus Ellwanger &amp; Geiger AG
+- Bankhaus Max Flessa KG
+- Bankhaus Rautenschlein AG
+- Bayerische BodenseeBank - Raiffeisen - eG
+- Bensberger Bank eG
+- Berliner Sparkasse
+- Berliner Volksbank eG Abteilung BIT
+- Bernhauser Bank eG
+- Bopfinger Bank Sechta-Ries eG
+- Bordesholmer Sparkasse AG
+- Brandenburger Bank Volksbank-Raiffeisenbank eG
+- Bremer LB
+- Bremische Volksbank eG
+- Brühler Bank eG
+- Budenheimer Volksbank eG
+- CVW-Privatbank AG
+- Comdirect bank AG
+- Commerzbank
+- Consorsbank by BNP PARIBAS
+- Cronbank AG
+- DKB
+- DKM Darlehnskasse Münster eG
+- Danske Bank Business Germany
+- Dettinger Bank eG
+- Deutsche Bank AG
+- Deutsche Postbank
+- Dithmarscher Volks- und Raiffeisenbank eG
+- Donau-Iller Bank eG
+- Donner &amp; Reuschel AG
+- Dortmunder Volksbank eG
+- EDEKABANK AG Hamburg
+- Echterdinger Bank eG
+- Eckernförder Bank eG Volksbank-Raiffeisenbank
+- Emsländische Volksbank eG
+- Erfurter Bank eG
+- Erzgebirgssparkasse
+- Eurocity Bank AG
+- Evangelische Bank eG
+- Evenord-Bank eG-KG
+- Federseebank eG
+- Fidor Bank
+- Frankenberger Bank Raiffeisenbank eG
+- Frankfurter Bankgesellschaft (Deutschland) AG
+- Frankfurter Sparkasse
+- Frankfurter Volksbank eG
+- Freisinger Bank eG Volksbank-Raiffeisenbank
+- Förde SPK
+- Fürst Fugger Privatbank Aktiengesellschaft
+- Fürstlich Castell-sche Bank Credit-Casse AG
+- GENO BANK ESSEN eG
+- GLS Gemeinschaftsbank eG
+- GRENKE BANK AG
+- Genobank Mainz eG
+- Genossenschaftsbank Unterallgäu eG
+- Genossenschaftsbank Weil im Schönbuch eG
+- Genossenschaftsbank eG München
+- Gladbacher Bank AG von 1922
+- Grafschafter Volksbank eG
+- HAUSBANK MÜNCHEN eG Bank für Haus- und Grundbesitz
+- Hagnauer Volksbank eG
+- Hamburger Sparkasse
+- Hamburger Volksbank eG
+- Hannoversche Volksbank eG
+- Harzer Volksbank eG
+- Harzsparkasse
+- Heidelberger Volksbank eG
+- Heidenheimer Volksbank eG
+- Hoerner Bank AG
+- HypoVereinsbank (HVB Online Banking)
+- Hümmlinger Volksbank eG
+- Hüttenberger Bank eG
+- IBM Deutschland Kreditbank GmbH
+- ING
+- Ikano Bank AB (publ) Zweigniederlassung Deutschland
+- Internationales Bankhaus Bodensee AG
+- KSK Ahrweiler
+- KSK Anhalt-Bitterfeld
+- KSK Augsburg
+- KSK Bautzen
+- KSK Bersenbrück
+- KSK Biberach
+- KSK Birkenfeld
+- KSK Bitburg-Prüm
+- KSK Böblingen
+- KSK Börde
+- KSK Döbeln
+- KSK Düsseldorf
+- KSK Eichsfeld
+- KSK Esslingen-Nürtingen
+- KSK Euskirchen
+- KSK Freudenstadt
+- KSK Garmisch-Partenkirchen
+- KSK Gelnhausen
+- KSK Gotha
+- KSK Grafschaft Diepholz
+- KSK Groß-Gerau
+- KSK Göppingen
+- KSK Halle (Westf.)
+- KSK Heidenheim
+- KSK Heilbronn
+- KSK Heinsberg
+- KSK Herzogtum Lauenburg
+- KSK Hildburghausen
+- KSK Kaiserslautern
+- KSK Kelheim
+- KSK Kusel
+- KSK Köln
+- KSK Limburg
+- KSK Ludwigsburg
+- KSK Mayen
+- KSK Melle
+- KSK Miesbach-Tegernsee
+- KSK Märkisch-Oderland
+- KSK München Starnberg Ebersberg
+- KSK Nordhausen
+- KSK Nordhorn
+- KSK Northeim
+- KSK Ostalb
+- KSK Ravensburg
+- KSK Reutlingen
+- KSK Rhein-Hunsrück
+- KSK Rottweil
+- KSK Saale-Orla
+- KSK Saalfeld-Rudolstadt
+- KSK Saarlouis
+- KSK Saarpfalz
+- KSK Schlüchtern
+- KSK Schwalm-Eder
+- KSK Sigmaringen
+- KSK Soltau
+- KSK St. Wendel
+- KSK Stade
+- KSK Steinfurt
+- KSK Stendal
+- KSK Syke
+- KSK Traunstein-Trostberg
+- KSK Tuttlingen
+- KSK Tübingen
+- KSK Verden
+- KSK Vulkaneifel
+- KSK Waiblingen
+- KSK Walsrode
+- KSK Weilburg
+- KSK Wiedenbrück
+- KSSK Kaufbeuren
+- KSSK Wasserburg
+- Kasseler Sparkasse
+- Kieler Volksbank eG
+- Kurhessische Landbank eG
+- Kyffhäusersparkasse Artern-Sondershausen
+- LBBW
+- LIGA Bank eG
+- LSK Oldenburg
+- Landbank Horlofftal eG
+- Landwirtschaftliche Rentenbank
+- Leipziger Volksbank eG
+- MERKUR BANK KGaA
+- MKB Mittelstandskreditbank AG
+- MLP Finanzdienstleistungen
+- Mainzer Volksbank eG
+- Mendener Bank eG
+- Mittelbrandenburgische SPK in Potsdam
+- Märkische Bank eG
+- Münchner Bank eG
+- Münsterländische Bank Thie &amp; Co. KG
+- Müritz-Sparkasse
+- N26
+- N26 (Token)
+- NORD/LB
+- Nassauische Sparkasse
+- Niederrheinische Sparkasse RheinLippe
+- Nord-Ostsee SPK
+- Nordthüringer Volksbank eG
+- Norisbank
+- North Channel Bank GmbH &amp; Co. KG
+- Onstmettinger Bank eG
+- Ostfriesische Volksbank eG
+- OstseeSparkasse Rostock
+- Ostsächsische Sparkasse Dresden
+- Otto M. Schröder Bank AG
+- PSD Bank Berlin-Brandenburg eG
+- PSD Bank Braunschweig eG
+- PSD Bank Hannover eG
+- PSD Bank Hessen-Thüringen eG
+- PSD Bank Karlsruhe-Neustadt eG
+- PSD Bank Kiel eG
+- PSD Bank Koblenz eG
+- PSD Bank München eG
+- PSD Bank Nord eG
+- PSD Bank Nürnberg eG
+- PSD Bank Rhein-Ruhr eG
+- PSD Bank RheinNeckarSaar eG
+- PSD Bank West eG
+- PSD Bank Westfalen-Lippe eG
+- Pax-Bank eG Kirche und Caritas
+- Paypal EU
+- Pommersche Volksbank eG
+- RSB Retail+Service Bank GmbH
+- Raiffeisen - meine Bank eG
+- Raiffeisen Privatbank eG
+- Raiffeisen Spar+Kreditbank eG
+- Raiffeisen-Bank Eschweiler eG
+- Raiffeisen-Volksbank Aschaffenburg eG
+- Raiffeisen-Volksbank Bad Staffelstein eG
+- Raiffeisen-Volksbank Donauwörth eG
+- Raiffeisen-Volksbank Ebersberg eG
+- Raiffeisen-Volksbank Fresena eG
+- Raiffeisen-Volksbank Haßberge eG
+- Raiffeisen-Volksbank Hermsdorfer Kreuz eG
+- Raiffeisen-Volksbank Neustadt eG
+- Raiffeisen-Volksbank Oder-Spree eG
+- Raiffeisen-Volksbank Ries eG
+- Raiffeisen-Volksbank Tüssling-Unterneukirchen eG
+- Raiffeisen-Volksbank Varel - Nordenham eG
+- Raiffeisen-Volksbank Wemding eG
+- Raiffeisen-Volksbank eG
+- Raiffeisenbank Adelzhausen-Sielenbach eG
+- Raiffeisenbank Aichhalden-Hardt- Sulgen eG
+- Raiffeisenbank Aidlingen eG
+- Raiffeisenbank Aindling eG
+- Raiffeisenbank Aitrang-Ruderatshofen eG
+- Raiffeisenbank Altdorf-Ergolding eG
+- Raiffeisenbank Altdorf-Feucht eG
+- Raiffeisenbank Alteglofsheim-Hagelstadt eG
+- Raiffeisenbank Altschweier eG
+- Raiffeisenbank Am Goldenen Steig eG
+- Raiffeisenbank Anger eG
+- Raiffeisenbank Aresing-Gerolsbach eG
+- Raiffeisenbank Arnstorf eG
+- Raiffeisenbank Aschau-Samerberg eG
+- Raiffeisenbank Aschberg eG
+- Raiffeisenbank Auerbach-Freihung eG
+- Raiffeisenbank Augsburger Land West eG
+- Raiffeisenbank Aulendorf eG
+- Raiffeisenbank Bad Kötzting eG
+- Raiffeisenbank Bad Saulgau eG
+- Raiffeisenbank Bad Schussenried eG
+- Raiffeisenbank Bad Windsheim eG
+- Raiffeisenbank Baisweil-Eggenthal-Friesenried eG
+- Raiffeisenbank Bechhofen eG
+- Raiffeisenbank Beilngries eG
+- Raiffeisenbank Berghülen eG
+- Raiffeisenbank Beuerberg-Eurasburg eG
+- Raiffeisenbank Biberach eG
+- Raiffeisenbank Bibertgrund eG
+- Raiffeisenbank Bidingen eG
+- Raiffeisenbank Biebergrund-Petersberg eG
+- Raiffeisenbank Bissingen eG
+- Raiffeisenbank Bobingen eG
+- Raiffeisenbank Borken Nordhessen eG
+- Raiffeisenbank Bruck eG
+- Raiffeisenbank Buch-Eching eG
+- Raiffeisenbank Burgebrach-Stegaurach eG
+- Raiffeisenbank Butjadingen- Abbehausen eG
+- Raiffeisenbank Böllingertal eG
+- Raiffeisenbank Bühlertal eG
+- Raiffeisenbank Bütthard-Gaukönigshofen eG
+- Raiffeisenbank Chamer Land eG
+- Raiffeisenbank Chiemgau-Nord-Obing eG
+- Raiffeisenbank Denzlingen-Sexau eG
+- Raiffeisenbank Dietersheim und Umgebung eG
+- Raiffeisenbank Donau-Heuberg eG
+- Raiffeisenbank Ebrachgrund eG
+- Raiffeisenbank Ehekirchen-Oberhausen eG
+- Raiffeisenbank Ehingen-Hochsträß eG
+- Raiffeisenbank Eichenbühl und Umgebung eG
+- Raiffeisenbank Eifeltor eG
+- Raiffeisenbank Elbmarsch eG
+- Raiffeisenbank Elsavatal eG
+- Raiffeisenbank Emsland-Mitte eG
+- Raiffeisenbank Erding eG
+- Raiffeisenbank Erkelenz eG
+- Raiffeisenbank Erlenbach eG
+- Raiffeisenbank Ersingen eG
+- Raiffeisenbank Eschlkam-Lam- Lohberg-Neukirchen b. Hl. Blut eG
+- Raiffeisenbank Essenbach eG
+- Raiffeisenbank Estenfeld-Bergtheim eG
+- Raiffeisenbank Falkenstein-Wörth eG
+- Raiffeisenbank Flachsmeer eG
+- Raiffeisenbank Floß eG
+- Raiffeisenbank Frankenhardt-Stimpfach eG
+- Raiffeisenbank Frankenwinheim und Umgebung eG
+- Raiffeisenbank Freinsheim eG
+- Raiffeisenbank Fränkische Schweiz eG
+- Raiffeisenbank Fuchstal-Denklingen eG
+- Raiffeisenbank Geiselhöring-Pfaffenberg eG
+- Raiffeisenbank Geislingen-Rosenfeld eG
+- Raiffeisenbank Gilching eG
+- Raiffeisenbank Gmund am Tegernsee eG
+- Raiffeisenbank Gotha eG
+- Raiffeisenbank Grainet eG
+- Raiffeisenbank Greding-Thalmässing eG
+- Raiffeisenbank Griesstätt-Halfing eG
+- Raiffeisenbank Grimma eG
+- Raiffeisenbank Gruibingen eG
+- Raiffeisenbank Grävenwiesbach eG
+- Raiffeisenbank Gymnich eG
+- Raiffeisenbank Haag-Gars-Maitenbeth eG
+- Raiffeisenbank Hallertau eG
+- Raiffeisenbank Hardt-Bruhrain eG
+- Raiffeisenbank Heilsbronn-Windsbach eG
+- Raiffeisenbank Hengersberg-Schöllnach eG
+- Raiffeisenbank Heroldsbach eG
+- Raiffeisenbank Hersbruck eG
+- Raiffeisenbank HessenNord eG
+- Raiffeisenbank Hiltenfingen eG
+- Raiffeisenbank Hirschau eG
+- Raiffeisenbank Hochfranken West eG
+- Raiffeisenbank Hohenloher Land eG
+- Raiffeisenbank Holzkirchen-Otterfing eG
+- Raiffeisenbank Höchberg eG
+- Raiffeisenbank Ichenhausen eG
+- Raiffeisenbank Irrel eG
+- Raiffeisenbank Isar-Loisachtal eG
+- Raiffeisenbank Kaarst eG
+- Raiffeisenbank Kaiserstuhl eG
+- Raiffeisenbank Kalbe-Bismark eG
+- Raiffeisenbank Kastellaun eG
+- Raiffeisenbank Kehrig eG
+- Raiffeisenbank Kempten-Oberallgäu eG
+- Raiffeisenbank Kieselbronn eG
+- Raiffeisenbank Kirchweihtal eG
+- Raiffeisenbank Kirtorf eG
+- Raiffeisenbank Kissing-Mering eG
+- Raiffeisenbank Kitzinger Land eG
+- Raiffeisenbank Knoblauchsland eG
+- Raiffeisenbank Kreis Kelheim eG
+- Raiffeisenbank Küps-Mitwitz-Stockheim eG
+- Raiffeisenbank Lorup eG
+- Raiffeisenbank Main-Spessart eG
+- Raiffeisenbank Maitis eG
+- Raiffeisenbank Maßbach eG
+- Raiffeisenbank Mecklenburger Seenplatte eG
+- Raiffeisenbank Mehring-Leiwen eG
+- Raiffeisenbank Mehrstetten eG
+- Raiffeisenbank Mittelschwaben eG
+- Raiffeisenbank Mittenwald eG
+- Raiffeisenbank Moselkrampen eG
+- Raiffeisenbank Mutlangen eG
+- Raiffeisenbank Mötzingen eG
+- Raiffeisenbank München-Nord eG
+- Raiffeisenbank München-Süd eG
+- Raiffeisenbank Nahe eG
+- Raiffeisenbank Neumarkt i.d.OPf. eG
+- Raiffeisenbank Neumarkt- St. Veit - Reischach eG
+- Raiffeisenbank Neustadt eG
+- Raiffeisenbank Neustadt-Vohenstrauß eG
+- Raiffeisenbank Niedere Alb eG
+- Raiffeisenbank Niederwallmenach eG
+- Raiffeisenbank Nordkreis Landsberg eG
+- Raiffeisenbank Nördliche Bergstraße eG
+- Raiffeisenbank Nüdlingen eG
+- Raiffeisenbank Oberaudorf eG
+- Raiffeisenbank Oberes Gäu eG
+- Raiffeisenbank Oberferrieden-Burgthann eG
+- Raiffeisenbank Oberland eG
+- Raiffeisenbank Obermain Nord eG
+- Raiffeisenbank Oberpfalz NordWest eG
+- Raiffeisenbank Oberpfalz Süd eG
+- Raiffeisenbank Oberteuringen-Meckenbeuren eG
+- Raiffeisenbank Oberursel eG
+- Raiffeisenbank Oldenburg eG
+- Raiffeisenbank Ortenburg-Kirchberg v.W. eG
+- Raiffeisenbank Ostprignitz - Ruppin eG
+- Raiffeisenbank Ottenbach eG
+- Raiffeisenbank Parkstetten eG
+- Raiffeisenbank Pfaffenhausen eG
+- Raiffeisenbank Pfaffenhofen a.d.Glonn eG
+- Raiffeisenbank Pfaffenwinkel eG
+- Raiffeisenbank Pfeffenhausen- Rottenburg-Wildenberg eG
+- Raiffeisenbank Plankstetten AG
+- Raiffeisenbank RSA eG
+- Raiffeisenbank Raisting eG
+- Raiffeisenbank Rastede eG
+- Raiffeisenbank Rattiszell-Konzell eG
+- Raiffeisenbank Regensburg-Wenzenbach eG
+- Raiffeisenbank Regenstauf eG
+- Raiffeisenbank Rehling eG
+- Raiffeisenbank Reute-Gaisbeuren eG
+- Raiffeisenbank Ried eG
+- Raiffeisenbank Rosenstein eG
+- Raiffeisenbank Roth-Schwabach eG
+- Raiffeisenbank Rupertiwinkel eG
+- Raiffeisenbank Schaafheim eG
+- Raiffeisenbank Schrobenhausener Land eG
+- Raiffeisenbank Schrozberg- Rot am See eG
+- Raiffeisenbank Schwaben Mitte eG
+- Raiffeisenbank Schwabmünchen eG
+- Raiffeisenbank Seebachgrund eG
+- Raiffeisenbank Singoldtal eG
+- Raiffeisenbank Sinzing eG
+- Raiffeisenbank Sondelfingen eG
+- Raiffeisenbank St. Wolfgang-Schwindkirchen eG
+- Raiffeisenbank Stauden eG
+- Raiffeisenbank Steingaden eG
+- Raiffeisenbank Steinheim eG
+- Raiffeisenbank Straubing eG
+- Raiffeisenbank Strücklingen- Idafehn eG
+- Raiffeisenbank Sulzbach-Rosenberg eG
+- Raiffeisenbank Südhardt eG
+- Raiffeisenbank Südl. Bayerischer Wald eG
+- Raiffeisenbank Südliches Ostallgäu eG
+- Raiffeisenbank Südstormarn Mölln eG
+- Raiffeisenbank Taufkirchen-Oberneukirchen eG
+- Raiffeisenbank Thannhausen eG
+- Raiffeisenbank Thurnauer Land eG
+- Raiffeisenbank Tüngental eG
+- Raiffeisenbank Türkheim eG
+- Raiffeisenbank Unteres Inntal eG
+- Raiffeisenbank Unteres Vilstal eG
+- Raiffeisenbank Unteres Zusamtal eG
+- Raiffeisenbank Volkacher Mainschleife - Wiesentheid eG
+- Raiffeisenbank Volkmarsen eG
+- Raiffeisenbank Vordersteinenberg eG
+- Raiffeisenbank Voreifel eG
+- Raiffeisenbank Wald-Görisried eG
+- Raiffeisenbank Waldaschaff-Heigenbrücken eG
+- Raiffeisenbank Wallgau-Krün eG
+- Raiffeisenbank Wangen eG
+- Raiffeisenbank Wegscheid eG
+- Raiffeisenbank Weißenburg-Gunzenhausen eG
+- Raiffeisenbank Welling eG
+- Raiffeisenbank Werratal-Landeck eG
+- Raiffeisenbank Wesermarsch-Süd eG
+- Raiffeisenbank Westallgäu eG
+- Raiffeisenbank Westeifel eG
+- Raiffeisenbank Westhausen eG
+- Raiffeisenbank Westkreis Fürstenfeldbruck eG
+- Raiffeisenbank Wiesedermeer- Wiesede-Marcardsmoor eG
+- Raiffeisenbank Wimsheim-Mönsheim eG
+- Raiffeisenbank Wyhl eG
+- Raiffeisenbank Wüstenselbitz eG
+- Raiffeisenbank Zeller Land eG
+- Raiffeisenbank Zorneding eG
+- Raiffeisenbank am Dreisessel eG
+- Raiffeisenbank am Kulm eG
+- Raiffeisenbank eG Baunatal
+- Raiffeisenbank eG Büchen-Crivitz-Hagenow-Plate
+- Raiffeisenbank eG Deggendorf-Plattling-Sonnenwald
+- Raiffeisenbank eG Elztal
+- Raiffeisenbank eG Offenbach / M.-Bieber
+- Raiffeisenbank eG Scharrel
+- Raiffeisenbank eG Unterwesterwald
+- Raiffeisenbank eG, Handewitt
+- Raiffeisenbank eG, Lauenburg
+- Raiffeisenbank eG, Leezen
+- Raiffeisenbank eG, Moormerland
+- Raiffeisenbank eG, Owschlag
+- Raiffeisenbank eG, Ratzeburg
+- Raiffeisenbank eG, Rodenbach
+- Raiffeisenbank eG, Seestermühe
+- Raiffeisenbank eG, Simmerath
+- Raiffeisenbank eG, Struvenhütten
+- Raiffeisenbank eG, Todenbüttel
+- Raiffeisenbank im Allgäuer Land eG
+- Raiffeisenbank im Breisgau eG
+- Raiffeisenbank im Donautal eG
+- Raiffeisenbank im Fuldaer Land eG
+- Raiffeisenbank im Grabfeld eG
+- Raiffeisenbank im Kreis Calw eG
+- Raiffeisenbank im Landkreis Passau-Nord eG
+- Raiffeisenbank im Oberland eG
+- Raiffeisenbank im Oberpfälzer Jura eG
+- Raiffeisenbank Ühlfeld-Dachsbach eG
+- Raiffeisenbank. Tattenhausen-Großkarolinenfeld eG
+- Raiffeisenkasse Erbes-Büdesheim und Umgebung eG
+- Revolut EU
+- Rheingauer Volksbank eG
+- Rhön-Rennsteig SPK
+- Rosbacher Raiffeisenbank eG
+- Rostocker Volks- und Raiffeisenbank eG
+- Rottaler Raiffeisenbank eG
+- Rüsselsheimer Volksbank eG
+- SPK Aachen
+- SPK Aichach-Schrobenhausen
+- SPK Allgäu
+- SPK Altenburger Land
+- SPK Altmark West
+- SPK Altötting-Mühldorf
+- SPK Amberg-Sulzbach
+- SPK Ansbach
+- SPK Arnsberg-Sundern
+- SPK Arnstadt-Ilmenau
+- SPK Aschaffenburg-Alzenau
+- SPK Attendorn-Lennestadt-Kirchhundem
+- SPK Aurich-Norden
+- SPK Bad Hersfeld-Rotenburg
+- SPK Bad Kissingen
+- SPK Bad Neustadt a.d. Saale
+- SPK Bad Oeynhausen - Porta Westfalica
+- SPK Bad Tölz-Wolfratshausen
+- SPK Baden-Baden Gaggenau
+- SPK Bamberg
+- SPK Barnim
+- SPK Battenberg
+- SPK Bayreuth
+- SPK Beckum-Wadersloh
+- SPK Bensheim
+- SPK Berchtesgadener Land
+- SPK Bergkamen-Bönen
+- SPK Bielefeld
+- SPK Bochum
+- SPK Bodensee
+- SPK Bonndorf-Stühlingen
+- SPK Bottrop
+- SPK Bremen
+- SPK Burbach-Neunkirchen
+- SPK Burgenlandkreis
+- SPK Bühl
+- SPK Chemnitz
+- SPK Coburg-Lichtenfels
+- SPK Dachau
+- SPK Darmstadt
+- SPK Deggendorf
+- SPK Dieburg
+- SPK Dillenburg
+- SPK Donauwörth
+- SPK Donnersberg
+- SPK Dortmund
+- SPK Duderstadt
+- SPK Duisburg
+- SPK Düren
+- SPK Einbeck
+- SPK Elbe-Elster
+- SPK Elmshorn
+- SPK Emden
+- SPK Emsland
+- SPK Engen-Gottmadingen
+- SPK Ennepetal-Breckerfeld
+- SPK Erding-Dorfen
+- SPK Erlangen Höchstadt Herzogenaurach
+- SPK Eschenbach Neustadt (a.d. Waldnaab)
+- SPK Essen
+- SPK Forchheim
+- SPK Freiburg-Nördlicher Breisgau
+- SPK Freising
+- SPK Freyung-Grafenau
+- SPK Fulda
+- SPK Fürstenfeldbruck
+- SPK Fürth
+- SPK Gelsenkirchen
+- SPK Gengenbach
+- SPK Gera-Greiz
+- SPK Geseke
+- SPK Gevelsberg-Wetter
+- SPK Gießen
+- SPK Gladbeck
+- SPK Grünberg
+- SPK Gummersbach
+- SPK Gunzenhausen
+- SPK Göttingen
+- SPK Günzburg-Krumbach
+- SPK Gütersloh-Rietberg
+- SPK HagenHerdecke
+- SPK Hameln-Weserbergland
+- SPK Hamm
+- SPK Hanau
+- SPK Hanauerland
+- SPK Hannover
+- SPK Harburg-Buxtehude
+- SPK Haslach-Zell
+- SPK Hattingen
+- SPK Hegau-Bodensee
+- SPK Heidelberg
+- SPK Herford
+- SPK Herne
+- SPK Hilden-Ratingen-Velbert
+- SPK Hildesheim Goslar Peine
+- SPK Hochfranken
+- SPK Hochrhein
+- SPK Hochsauerland
+- SPK Hochschwarzwald
+- SPK Hohenlohekreis
+- SPK Holstein
+- SPK Höxter
+- SPK IngolstadtEichstätt
+- SPK Iserlohn
+- SPK Jena-Saale-Holzland
+- SPK Jerichower Land
+- SPK Karlsruhe
+- SPK Kierspe-Meinerzhagen
+- SPK Koblenz
+- SPK Kraichgau
+- SPK Krefeld
+- SPK Kulmbach-Kronach
+- SPK KölnBonn
+- SPK Landsberg-Dießen
+- SPK Landshut
+- SPK Langen-Seligenstadt
+- SPK Laubach-Hungen
+- SPK LeerWittmund
+- SPK Lemgo
+- SPK Leverkusen
+- SPK Lippstadt
+- SPK Lörrach-Rheinfelden
+- SPK Lüdenscheid
+- SPK Lüneburg
+- SPK Mainfranken Würzburg
+- SPK Mainz
+- SPK Mansfeld-Südharz
+- SPK Marburg-Biedenkopf
+- SPK Markgräflerland
+- SPK Mecklenburg-Nordwest
+- SPK Mecklenburg-Schwerin
+- SPK Mecklenburg-Strelitz
+- SPK Meißen
+- SPK Memmingen-Lindau-Mindelheim
+- SPK Merzig-Wadern
+- SPK Miltenberg-Obernburg
+- SPK Minden-Lübbecke
+- SPK Mittelfranken-Süd
+- SPK Mittelholstein AG
+- SPK Mittelmosel-Eifel-Mosel-Hunsrück
+- SPK Mittelsachsen
+- SPK Mittelthüringen
+- SPK Moosburg
+- SPK Muldental
+- SPK Märkisches Sauerland Hemer - Menden
+- SPK Mülheim a.d. Ruhr
+- SPK Münsterland-Ost
+- SPK Neckartal-Odenwald
+- SPK Neu-Ulm-Illertissen
+- SPK Neubrandenburg-Demmin
+- SPK Neuburg-Rain
+- SPK Neumarkt i.d.OPf.-Parsberg
+- SPK Neunkirchen
+- SPK Neuss
+- SPK Neustadt a.d. Aisch-Bad Windsheim
+- SPK Neuwied
+- SPK Niederbayern-Mitte
+- SPK Niederlausitz
+- SPK Nienburg
+- SPK Nürnberg
+- SPK Oberhessen
+- SPK Oberland
+- SPK Oberlausitz-Niederschlesien
+- SPK Oberpfalz Nord
+- SPK Odenwaldkreis
+- SPK Oder-Spree
+- SPK Offenburg/Ortenau
+- SPK Olpe-Drolshagen-Wenden
+- SPK Osnabrück
+- SPK Osterode am Harz
+- SPK Ostprignitz-Ruppin
+- SPK Paderborn-Detmold
+- SPK Passau
+- SPK Pfaffenhofen
+- SPK Pforzheim Calw
+- SPK Pfullendorf-Meßkirch
+- SPK Prignitz
+- SPK Radevormwald-Hückeswagen
+- SPK Rastatt-Gernsbach
+- SPK Regen-Viechtach
+- SPK Regensburg
+- SPK Rhein Neckar Nord
+- SPK Rhein-Haardt
+- SPK Rhein-Maas
+- SPK Rhein-Nahe
+- SPK Riezlern
+- SPK Rosenheim-Bad Aibling
+- SPK Rotenburg Osterholz
+- SPK Rottal-Inn
+- SPK Saarbrücken
+- SPK Salem-Heiligenberg
+- SPK Schaumburg
+- SPK Scheeßel
+- SPK Schwarzwald-Baar
+- SPK Schweinfurt-Haßberge
+- SPK Schwäbisch Hall-Crailsheim
+- SPK Siegen
+- SPK SoestWerl
+- SPK Sonneberg
+- SPK Spree-Neiße
+- SPK Sprockhövel
+- SPK St.Blasien
+- SPK Stade - Altes Land
+- SPK Starkenburg
+- SPK Staufen-Breisach
+- SPK Suedwestpfalz
+- SPK Südholstein
+- SPK Südpfalz
+- SPK Tauberfranken
+- SPK Trier
+- SPK Uckermark
+- SPK Uecker-Randow
+- SPK Uelzen Lüchow-Dannenberg
+- SPK Ulm
+- SPK UnnaKamen
+- SPK Unstrut-Hainich
+- SPK Vest Recklinghausen
+- SPK Vogtland
+- SPK Vorderpfalz
+- SPK Vorpommern
+- SPK Waldeck-Frankenberg
+- SPK Werra-Meißner
+- SPK Westerwald-Sieg
+- SPK Westholstein
+- SPK Westmünsterland
+- SPK Wetzlar
+- SPK Wiesental
+- SPK Wilhelmshaven
+- SPK Witten
+- SPK Wittenberg
+- SPK Wittgenstein
+- SPK Wolfach
+- SPK Worms-Alzey-Ried
+- SPK Zollernalb
+- SPK Zwickau
+- SPK am Niederrhein
+- SPK im Landkreis Cham
+- SPK im Landkreis Schwandorf
+- SPK zu Lübeck AG
+- SSK Augsburg
+- SSK Bad Pyrmont
+- SSK Barsinghausen
+- SSK Blomberg/Lippe
+- SSK Bocholt
+- SSK Borken
+- SSK Burgdorf
+- SSK Cuxhaven
+- SSK Delbrück
+- SSK Dessau
+- SSK Düsseldorf
+- SSK Grebenstein
+- SSK Haan (Rheinland)
+- SSK Haltern am See
+- SSK Kaiserslautern
+- SSK Langenfeld (Rheinland)
+- SSK Lengerich
+- SSK Magdeburg
+- SSK Mönchengladbach
+- SSK München
+- SSK Oberhausen
+- SSK Offenbach
+- SSK Rahden
+- SSK Remscheid
+- SSK Rheine
+- SSK Schwalmstadt
+- SSK Schwedt
+- SSK Schwelm
+- SSK Schwerte
+- SSK Solingen
+- SSK Versmold
+- SSK Wedel
+- SSK Wermelskirchen
+- SSK Wunstorf
+- SSK Wuppertal
+- SVB
+- Saalesparkasse
+- Salzlandsparkasse
+- Scharnhauser Bank eG
+- Schrobenhausener Bank eG
+- Solaris (Tomorrowbank, Vivid Money, Nuri, Kontist, Penta, Insha, FINOM)
+- Spar- u. Kredit-Bank eG
+- Spar- und Darlehnskasse Bockum-Hövel eG
+- Spar- und Darlehnskasse Börde Lamstedt-Hechthausen eG
+- Spar- und Darlehnskasse eG, Friesoythe
+- Spar- und Kreditbank Bühlertal eG
+- Spar- und Kreditbank Evangelisch-Freikirchlicher Gemeinden eG
+- Spar- und Kreditbank Rheinstetten eG
+- Spar- und Kreditbank des Bundes Freier evangelischer Gemeinden eG
+- Spar- und Kreditbank eG, Hammah
+- Sparda-Bank Augsburg
+- Sparda-Bank Baden-Württemberg
+- Sparda-Bank Berlin eG
+- Sparda-Bank Hamburg eG
+- Sparda-Bank Hannover eG
+- Sparda-Bank Hessen
+- Sparda-Bank München
+- Sparda-Bank Nürnberg
+- Sparda-Bank Ostbayern
+- Sparda-Bank Südwest eG
+- Sparda-Bank West - Essen
+- Sparda-Bank West - Koeln
+- Sparda-Bank West - Muenster
+- Sparda-Bank West - Wuppertal
+- Sparkasse Dillingen-Nördlingen
+- Sparkasse Mitten im Sauerland
+- Sparkasse an der Lippe
+- Sparkasse&nbsp;Celle-Gifhorn-Wolfsburg
+- Spreewaldbank eG
+- St. Galler Kantonalbank Deutschland AG
+- Stadt- und Kreissparkasse Leipzig
+- Steyler Bank GmbH
+- Sylter Bank eG
+- Südtiroler Sparkasse AG Niederlassung München
+- Südwestbank AG
+- Taunus Sparkasse
+- Triodos Bank N.V. Deutschland
+- UC eBanking Global
+- UNION-BANK AG
+- VBU Volksbank im Unterland eG
+- VR BANK Dinklage-Steinfeld eG
+- VR Bank Alzey-Land-Schwabenheim eG
+- VR Bank Augsburg-Ostallgäu eG
+- VR Bank Bad Orb-Gelnhausen eG
+- VR Bank Bamberg-Forchheim eG
+- VR Bank Bayreuth-Hof eG
+- VR Bank Burglengenfeld eG
+- VR Bank Enz plus eG
+- VR Bank Fulda eG
+- VR Bank HessenLand eG
+- VR Bank Hohenneuffen-Teck eG
+- VR Bank Kitzingen eG
+- VR Bank Lahn-Dill eG
+- VR Bank Lausitz eG
+- VR Bank Main-Kinzig-Büdingen eG
+- VR Bank Mittelhaardt eG
+- VR Bank Mittlere Oberpfalz eG
+- VR Bank München Land eG
+- VR Bank Neuburg-Rain eG
+- VR Bank Neumünster eG
+- VR Bank Niederbayern-Oberpfalz eG
+- VR Bank Nord eG
+- VR Bank Oberfranken Mitte eG
+- VR Bank Oldenburg Land eG
+- VR Bank Ostholstein Nord - Plön eG
+- VR Bank Ravensburg-Weingarten eG
+- VR Bank Rhein-Mosel eG
+- VR Bank Rhein-Neckar eG
+- VR Bank Schleswig-Mittelholstein eG
+- VR Bank Schwäbisch Hall-Crailsheim eG
+- VR Bank Starnberg-Herrsching-Landsberg eG
+- VR Bank Südliche Weinstraße-Wasgau eG
+- VR Bank Südpfalz eG
+- VR Bank Tübingen eG
+- VR Bank Weimar eG
+- VR Bank Westküste eG
+- VR Bank Westthüringen eG
+- VR Bank eG Bergisch Gladbach-Leverkusen
+- VR Bank eG Heuberg-Winterlingen
+- VR Bank eG, Alsheim
+- VR Bank eG, Monheim am Rhein
+- VR Bank in Holstein eG
+- VR GenoBank DonauWald eG
+- VR PLUS Altmark-Wendland eG
+- VR PartnerBank eG Chattengau-Schwalm-Eder
+- VR meine Bank eG
+- VR-Bank Altenburger Land eG
+- VR-Bank Asperg-Markgröningen eG
+- VR-Bank Bad Salzungen Schmalkalden eG
+- VR-Bank Bonn eG
+- VR-Bank Coburg eG
+- VR-Bank Donau-Mindel eG
+- VR-Bank Dornstetten-Horb eG
+- VR-Bank Ehningen-Nufringen eG
+- VR-Bank Eisenach-Ronshausen eG
+- VR-Bank Ellwangen eG
+- VR-Bank Erding eG
+- VR-Bank Erlangen-Höchstadt- Herzogenaurach eG
+- VR-Bank Feuchtwangen-Dinkelsbühl eG
+- VR-Bank Fichtelgebirge- Frankenwald eG
+- VR-Bank Fläming eG
+- VR-Bank Freudenberg-Niederfischbach eG
+- VR-Bank Gerolzhofen eG
+- VR-Bank Handels- und Gewerbebank eG
+- VR-Bank Hunsrück-Mosel eG
+- VR-Bank Isar-Vils eG
+- VR-Bank Ismaning Hallbergmoos Neufahrn eG
+- VR-Bank Landau-Mengkofen eG
+- VR-Bank Landsberg-Ammersee eG
+- VR-Bank Landshut eG
+- VR-Bank Langenau-Ulmer Alb eG
+- VR-Bank Lichtenfels-Ebern eG
+- VR-Bank Memmingen eG
+- VR-Bank Mitte eG
+- VR-Bank Mittelfranken West eG
+- VR-Bank Mittelsachsen eG
+- VR-Bank Neckar-Enz eG
+- VR-Bank Neu-Ulm eG
+- VR-Bank NordRhön eG
+- VR-Bank Nordeifel eG
+- VR-Bank Ostalb eG
+- VR-Bank Ostbayern-Mitte eG
+- VR-Bank Passau eG
+- VR-Bank Rhein-Sieg eG
+- VR-Bank Rottal-Inn eG
+- VR-Bank Schweinfurt eG
+- VR-Bank Spangenberg-Morschen eG
+- VR-Bank Südwestpfalz eG Pirmasens - Zweibrücken
+- VR-Bank Taufkirchen-Dorfen eG
+- VR-Bank Uckermark-Randow eG
+- VR-Bank Werdenfels eG
+- VR-Bank Westmünsterland eG
+- VR-Bank eG Magstadt-Weissach
+- VR-Bank eG Osnabrücker Nordland
+- VR-Bank eG Schopfheim-Maulburg
+- VR-Bank eG, Alzenau
+- VR-Bank eG, Würselen
+- VR-Bank in Mittelbaden eG
+- VR-Bank in Südniedersachsen eG
+- VR-Bank in Südoldenburg eG
+- VR-Bankverein Bad Hersfeld-Rotenburg eG
+- VSK Emsdetten-Ochtrup
+- VSK Goch-Kevelaer-Weeze
+- VakifBank International AG, Wien ZN Deutschland
+- VerbundVolksbank OWL eG
+- Vereinigte Raiffeisenbank Burgstädt eG
+- Vereinigte Raiffeisenbanken Gräfenberg-Forchheim- Eschenau-Heroldsberg eG
+- Vereinigte Sparkasse im Märkischen Kreis
+- Vereinigte VR Bank Kur- und Rheinpfalz eG
+- Vereinigte VR Bank eG, Wyk auf Föhr
+- Vereinigte Volksbank Raiffeisenbank eG, Reinheim
+- Vereinigte Volksbank Raiffeisenbank eG, Wittlich
+- Vereinigte Volksbank eG Ganderkesee-Hude-Bookholzberg- Lemwerder
+- Vereinigte Volksbank eG Saarlouis - Losheim am See - Sulzbach/Saar
+- Vereinigte Volksbank eG, Brakel
+- Vereinigte Volksbank eG, Sindelfingen
+- Vereinte Volksbank eG
+- Volks- und Raiffeisenbank Fürstenwalde Seelow-Wriezen eG
+- Volks- und Raiffeisenbank Muldental eG
+- Volks- und Raiffeisenbank Prignitz eG
+- Volks- und Raiffeisenbank Saale-Unstrut eG
+- Volks- und Raiffeisenbank Saarpfalz eG
+- Volks- und Raiffeisenbank eG
+- Volksbank - Raiffeisenbank Vilshofen eG
+- Volksbank Albstadt eG
+- Volksbank Aller-Weser eG
+- Volksbank Allgäu-Oberschwaben eG
+- Volksbank Altshausen eG
+- Volksbank Alzey-Worms eG
+- Volksbank Ammerbuch eG
+- Volksbank Anröchte eG
+- Volksbank Ascheberg-Herbern eG
+- Volksbank Backnang eG
+- Volksbank Bad Salzuflen eG
+- Volksbank Bad Saulgau eG
+- Volksbank Baden-Baden Rastatt eG
+- Volksbank Bakum eG
+- Volksbank Baumberge eG
+- Volksbank Beckum-Lippstadt eG
+- Volksbank Beilstein-Ilsfeld- Abstatt eG
+- Volksbank Berg eG
+- Volksbank Bielefeld-Gütersloh eG
+- Volksbank Bigge-Lenne eG
+- Volksbank Blaubeuren eG
+- Volksbank Bocholt eG
+- Volksbank Bochum Witten eG
+- Volksbank Bramgau-Wittlage eG
+- Volksbank Brandoberndorf eG
+- Volksbank Braunlage eG
+- Volksbank Breisgau Nord eG
+- Volksbank Breisgau- Markgräflerland eG
+- Volksbank Bremen-Nord eG
+- Volksbank Brenztal eG
+- Volksbank Brilon-Büren-Salzkotten eG
+- Volksbank Bruchsal-Bretten eG
+- Volksbank Bruhrain-Kraich-Hardt eG
+- Volksbank Butzbach eG
+- Volksbank Bönen eG
+- Volksbank Börde-Bernburg eG
+- Volksbank Börßum-Hornburg eG
+- Volksbank Bösel eG
+- Volksbank Bühl eG
+- Volksbank Chemnitz eG
+- Volksbank Daaden eG
+- Volksbank Dammer Berge eG
+- Volksbank Darmstadt - Südhessen eG
+- Volksbank Deisslingen eG
+- Volksbank Delbrück-Hövelhof eG
+- Volksbank Delitzsch eG
+- Volksbank Demmin eG
+- Volksbank Dessau-Anhalt eG
+- Volksbank Dettenhausen eG
+- Volksbank Dortmund-Nordwest eG
+- Volksbank Dreieich eG
+- Volksbank Dreiländereck eG
+- Volksbank Dresden-Bautzen eG
+- Volksbank Dünnwald-Holweide eG
+- Volksbank Düsseldorf Neuss eG
+- Volksbank Eifel eG
+- Volksbank Eisenberg eG
+- Volksbank Elsen-Wewer-Borchen eG
+- Volksbank Elsterland eG
+- Volksbank Emmerich-Rees eG
+- Volksbank Emstal eG
+- Volksbank Emstek eG
+- Volksbank Enniger-Ostenfelde-Westkirchen eG
+- Volksbank Erft eG
+- Volksbank Erle eG
+- Volksbank Ermstal-Alb eG
+- Volksbank Esens eG
+- Volksbank Essen-Cappeln eG
+- Volksbank Ettlingen eG
+- Volksbank Euskirchen eG
+- Volksbank Eutin Raiffeisenbank eG
+- Volksbank Feldatal eG
+- Volksbank Filder eG
+- Volksbank Flein-Talheim eG
+- Volksbank Franken eG
+- Volksbank Freiburg eG
+- Volksbank Friedrichshafen-Tettnang eG
+- Volksbank GMHütte-Hagen-Bissendorf eG
+- Volksbank Gebhardshain eG
+- Volksbank Geest eG
+- Volksbank Geeste-Nord eG
+- Volksbank Gemen eG
+- Volksbank Gescher eG
+- Volksbank Glan-Münchweiler eG
+- Volksbank Gronau-Ahaus eG
+- Volksbank Göppingen eG
+- Volksbank Haaren eG
+- Volksbank Halle (Saale) eG
+- Volksbank Halle/Westf. eG
+- Volksbank Hameln-Stadthagen eG
+- Volksbank Hamm / Sieg eG
+- Volksbank Haselünne eG
+- Volksbank Heiden eG
+- Volksbank Heilbronn eG
+- Volksbank Heimbach eG
+- Volksbank Heinsberg eG
+- Volksbank Hellweg eG
+- Volksbank Herford-Mindener Land eG
+- Volksbank Herrenberg-Nagold- Rottenburg eG
+- Volksbank Heuchelheim eG
+- Volksbank Hochrhein eG
+- Volksbank Hohenlimburg eG
+- Volksbank Hohenlohe eG
+- Volksbank Hohenzollern-Balingen eG
+- Volksbank Hunsrück-Nahe eG
+- Volksbank Immenstadt eG
+- Volksbank Jerichower Land eG
+- Volksbank Jever eG
+- Volksbank Kaiserslautern eG
+- Volksbank Kamen-Werne eG
+- Volksbank Karlsruhe eG
+- Volksbank Kassel Göttingen eG
+- Volksbank Kempen-Grefrath eG
+- Volksbank Kierspe eG
+- Volksbank Kirnau eG
+- Volksbank Klettgau-Wutöschingen eG
+- Volksbank Kleverland eG
+- Volksbank Kraichgau eG
+- Volksbank Krautheim eG
+- Volksbank Krefeld eG
+- Volksbank Kurpfalz eG
+- Volksbank Köln Bonn eG
+- Volksbank Lahr eG
+- Volksbank Laichinger Alb eG
+- Volksbank Langendernbach eG
+- Volksbank Lastrup eG
+- Volksbank Lauterbach-Schlitz eG
+- Volksbank Lauterecken eG
+- Volksbank Leonberg-Strohgäu eG
+- Volksbank Limbach eG
+- Volksbank Lindenberg eG
+- Volksbank Lingen eG
+- Volksbank Lohne-Mühlen eG
+- Volksbank Ludwigsburg eG
+- Volksbank Löbau-Zittau eG
+- Volksbank Lübbecker Land eG
+- Volksbank Lübeck eG
+- Volksbank Lüneburger Heide eG
+- Volksbank Magdeburg eG
+- Volksbank Main-Tauber eG
+- Volksbank Mainspitze eG
+- Volksbank Marl-Recklinghausen eG
+- Volksbank Meßkirch eG Raiffeisenbank
+- Volksbank Mittelhessen eG
+- Volksbank Mittlerer Neckar eG
+- Volksbank Mittlerer Schwarzwald eG
+- Volksbank Mittleres Erzgebirge eG
+- Volksbank Mittweida eG
+- Volksbank Möckmühl eG
+- Volksbank Mönchengladbach eG
+- Volksbank Münsingen eG
+- Volksbank Münsterland Nord eG
+- Volksbank Neckartal eG
+- Volksbank Neuenkirchen-Vörden eG
+- Volksbank Niedergrafschaft eG
+- Volksbank Niederrhein eG
+- Volksbank Nordharz eG
+- Volksbank Nordhümmling eG
+- Volksbank Nordschwarzwald eG
+- Volksbank Nottuln eG
+- Volksbank Ober-Mörlen eG
+- Volksbank Oberberg eG
+- Volksbank Ochtrup-Laer eG
+- Volksbank Oldenburg eG
+- Volksbank Olpe-Wenden-Drolshagen eG
+- Volksbank Osnabrück eG
+- Volksbank Ostlippe eG
+- Volksbank Oyten eG
+- Volksbank Pforzheim eG
+- Volksbank Pfullendorf eG
+- Volksbank Pirna eG
+- Volksbank Plochingen eG
+- Volksbank Raesfeld eG
+- Volksbank Raiffeisenbank Bad Kissingen eG
+- Volksbank Raiffeisenbank Bayern Mitte eG
+- Volksbank Raiffeisenbank Dachau eG
+- Volksbank Raiffeisenbank Fürstenfeldbruck eG
+- Volksbank Raiffeisenbank Meißen Großenhain eG
+- Volksbank Raiffeisenbank Niederschlesien eG
+- Volksbank Raiffeisenbank Nordoberpfalz eG
+- Volksbank Raiffeisenbank Nürnberg eG
+- Volksbank Raiffeisenbank Oberbayern Südost eG
+- Volksbank Raiffeisenbank Regensburg-Schwandorf eG
+- Volksbank Raiffeisenbank Rhön-Grabfeld eG
+- Volksbank Raiffeisenbank Würzburg eG
+- Volksbank Raiffeisenbank eG Itzehoe Norderstedt Hohenwestedt
+- Volksbank Raiffeisenbank eG, Bad Oldesloe
+- Volksbank Rathenow eG
+- Volksbank Remseck eG
+- Volksbank Reutlingen eG
+- Volksbank Rhede eG
+- Volksbank Rhein-Erft-Köln eG
+- Volksbank Rhein-Lahn-Limburg eG
+- Volksbank Rhein-Lippe eG
+- Volksbank Rhein-Nahe-Hunsrück eG
+- Volksbank Rhein-Ruhr eG
+- Volksbank Rhein-Wehra eG
+- Volksbank RheinAhrEifel eG
+- Volksbank Rheinböllen eG
+- Volksbank Riesa eG
+- Volksbank Rietberg eG
+- Volksbank Rot eG
+- Volksbank Rottweil eG
+- Volksbank Ruhr Mitte eG
+- Volksbank Sandhofen eG
+- Volksbank Sauerland eG
+- Volksbank Schermbeck eG
+- Volksbank Schlangen eG
+- Volksbank Schnathorst eG
+- Volksbank Schupbach eG
+- Volksbank Schwanewede eG
+- Volksbank Schwarzwald-Donau-Neckar eG
+- Volksbank Seligenstadt eG
+- Volksbank Selm-Bork eG
+- Volksbank Senden eG
+- Volksbank Solling eG
+- Volksbank Spree-Neiße eG
+- Volksbank Sprockhövel eG
+- Volksbank Stade-Cuxhaven eG
+- Volksbank Staufen eG
+- Volksbank Stendal eG
+- Volksbank Stutensee-Weingarten eG
+- Volksbank Stuttgart eG
+- Volksbank Störmede-Hörste eG
+- Volksbank Sulmtal eG
+- Volksbank Süd-Emsland eG
+- Volksbank Südkirchen-Capelle-Nordkirchen eG
+- Volksbank Südmünsterland-Mitte eG
+- Volksbank Trier eG
+- Volksbank Trossingen eG
+- Volksbank Uelzen-Salzwedel eG
+- Volksbank Ulm-Biberach eG
+- Volksbank Ulrichstein eG
+- Volksbank Vechta eG
+- Volksbank Versmold eG
+- Volksbank Viersen eG
+- Volksbank Visbek eG
+- Volksbank Vogtland-Saale-Orla eG
+- Volksbank Vorbach-Tauber eG
+- Volksbank Vorpommern eG
+- Volksbank Welzheim eG
+- Volksbank Weschnitztal eG
+- Volksbank Westenholz eG
+- Volksbank Westerkappeln-Saerbeck eG
+- Volksbank Westerstede eG
+- Volksbank Wewelsburg-Ahden eG
+- Volksbank Wickede (Ruhr) eG
+- Volksbank Wilhelmshaven eG
+- Volksbank Winsener Marsch eG
+- Volksbank Wittenberg eG
+- Volksbank Wittgenstein eG
+- Volksbank Wißmar eG
+- Volksbank Worpswede eG
+- Volksbank Wulfsen eG
+- Volksbank Zuffenhausen eG
+- Volksbank Zwickau eG
+- Volksbank am Württemberg eG
+- Volksbank an der Niers eG
+- Volksbank eG - Die Gestalterbank
+- Volksbank eG Bad Laer-Borgloh-Hilter-Melle
+- Volksbank eG Braunschweig Wolfsburg
+- Volksbank eG Bremerhaven-Cuxland
+- Volksbank eG Delmenhorst Schierbrok
+- Volksbank eG Gera · Jena · Rudolstadt
+- Volksbank eG Konstanz
+- Volksbank eG Mosbach
+- Volksbank eG Osterholz-Scharmbeck
+- Volksbank eG Südheide - Isenhagener Land - Altmark
+- Volksbank eG Westrhauderfehn
+- Volksbank eG Wümme-Wieste
+- Volksbank eG im Kreis Freudenstadt
+- Volksbank eG, Adelebsen
+- Volksbank eG, Fredenbeck
+- Volksbank eG, Gardelegen
+- Volksbank eG, Grebenhain
+- Volksbank eG, Hildesheim-Lehrte-Pattensen
+- Volksbank eG, Köthen-Bitterfeld
+- Volksbank eG, Löningen
+- Volksbank eG, Nienburg
+- Volksbank eG, Sangerhausen
+- Volksbank eG, Seesen
+- Volksbank eG, Sulingen
+- Volksbank eG, Syke
+- Volksbank eG, Warendorf
+- Volksbank eG, Wolfenbüttel
+- Volksbank eG, Überlingen
+- Volksbank im Bergischen Land eG
+- Volksbank im Harz eG
+- Volksbank im Hochsauerland eG
+- Volksbank im Wesertal eG
+- Volksbank in Schaumburg eG
+- Volksbank in Südwestfalen eG
+- Volksbank in der Hohen Mark eG
+- Volksbank Überherrn eG
+- Volksbank Überwald-Gorxheimertal eG
+- Volksbank-Raiffeisenbank Amberg eG
+- Volksbank-Raiffeisenbank Deggingen eG
+- Volksbank-Raiffeisenbank Glauchau eG
+- Volksbank-Raiffeisenbank Laupheim-Illertal eG
+- Volksbank-Raiffeisenbank Riedlingen eG
+- Waldecker Bank eG
+- Wartburg-Sparkasse
+- Weberbank
+- Weser-Elbe Sparkasse
+- Westerwald Bank eG Volks- und Raiffeisenbank
+- Wiesbadener Volksbank eG
+- Winterbacher Bank eG
+- Wirecard Bank AG
+- Wise
+- Zevener Volksbank eG
+- levoBank eG
+- meine Volksbank Raiffeisenbank eG
+- net-m privatbank 1891 AG Aktiengesellschaft
+- vr bank Südthüringen eG
+
+## Iceland
+
+- N26
+- Paypal EU
+- Revolut EU
+
+## Ireland
+
+- AIB ROI Personal
+- Allied Irish Bank Business (ROI)
+- Bank of Ireland
+- Bank of Ireland Business
+- Danske Bank Business Ireland
+- KBC Bank Ireland
+- N26
+- Paypal EU
+- Permanent TSB
+- Revolut EU
+- Soldo Ireland
+- Ulster Bank (ROI / EIRE)
+- Ulster Bank Business (ROI)
+- Wise
+
+## Italy
+- ALPENBANK
+- BNL
+- Banca Monte dei Paschi Business
+- Banca Monte dei Paschi Personal
+- Banca Popolare dell Alto Adige Personal / Volksbank
+- Banco BPM
+- Banco di Sardegna
+- BancoPosta
+- CASSA CENTRALE RAIFFEISEN DELL ALTO ADIGE
+- CASSA RAIFFEISEN ALTA PUSTERIA
+- CASSA RAIFFEISEN ALTA VENOSTA
+- CASSA RAIFFEISEN BASSA ATESINA
+- CASSA RAIFFEISEN BASSA VENOSTA
+- CASSA RAIFFEISEN CAMPO DI TRENS
+- CASSA RAIFFEISEN CASTELROTTO-ORTISEI
+- CASSA RAIFFEISEN DELLA VAL PASSIRIA
+- CASSA RAIFFEISEN DELLA VALLE ISARCO
+- CASSA RAIFFEISEN DI BRUNICO
+- CASSA RAIFFEISEN DI DOBBIACO
+- CASSA RAIFFEISEN DI FUNES
+- CASSA RAIFFEISEN DI LAGUNDO
+- CASSA RAIFFEISEN DI LASA
+- CASSA RAIFFEISEN DI MARLENGO
+- CASSA RAIFFEISEN DI MERANO
+- CASSA RAIFFEISEN DI NOVA PONENTE ALDINO
+- CASSA RAIFFEISEN DI PARCINES
+- CASSA RAIFFEISEN DI SCENA
+- CASSA RAIFFEISEN DI TESIMO
+- CASSA RAIFFEISEN DI VILLABASSA
+- CASSA RAIFFEISEN ETSCHTAL
+- CASSA RAIFFEISEN GHERDEINA
+- CASSA RAIFFEISEN LACES
+- CASSA RAIFFEISEN LANA
+- CASSA RAIFFEISEN MONGUELFO-CASIESTESIDO
+- CASSA RAIFFEISEN OLTRADIGE
+- CASSA RAIFFEISEN PRATO-TUBRE
+- CASSA RAIFFEISEN SCHLERN-ROSENGARTEN
+- CASSA RAIFFEISEN SILANDRO
+- CASSA RAIFFEISEN TIROLO
+- CASSA RAIFFEISEN TURES-AURINA
+- CASSA RAIFFEISEN ULTIMO S.PANCRAZIO-LAUREGNO
+- CASSA RAIFFEISEN VAL BADIA
+- CASSA RAIFFEISEN VAL SARENTINO
+- CASSA RAIFFEISEN VANDOIES
+- CASSA RAIFFEISEN WIPPTAL
+- CASSA RAIFFFEISEN BASSA VALL ISARCO
+- CASSA RURALE DI BOLZANO
+- CASSA RURALE DI SALORNO
+- Cassa di Risparmio di Bolzano
+- FinecoBank
+- Hello Bank!
+- ING
+- Intesa Sanpaolo
+- N26
+- Paypal EU
+- Raiffeisen Landesbank / Casa Centrale Raiffeisen dell Alto Adige
+- Revolut EU
+- UBI Banca (business)
+- UniCredit
+- Widiba
+- Wise
+
+## Latvia
+
+Luminor Latvia
+Paypal EU
+Revolut EU
+Swedbank - Latvia
+
+## Lithuania
+
+- Luminor Lithuania
+- Paypal EU
+- Revolut EU
+- Swedbank - Lithuania
+
+## Netherlands
+
+- ABN AMRO
+- Handelsbanken - Netherlands
+- Handelsbanken Business - Netherlands
+- ING
+- N26
+- N26 (Token)
+- Paypal EU
+- Rabobank
+- Revolut EU
+- Wise
+
+## Norway
+
+- Danske Bank - Norway
+- Danske Bank Business Norway
+- N26
+- Nordea - Business - Norway
+- Nordea - Personal - Norway
+- Paypal EU
+- Revolut EU
+- ANDBANK
+
+## Spain
+
+- BBVA
+- Banca March
+- Banca Mediolanum
+- Banco Pichincha
+- Banco Sabadell
+- Banco Santander
+- Bankia
+- Bankinter
+- Bankoa
+- Caixa Bank
+- Caixa Popular
+- Caixa Rural les Coves
+- Caja Rural De Navarra
+- Caja Rural Galega
+- Caja Rural Granada
+- Caja Rural Jaen
+- Caja Rural Lalcora
+- Caja Rural San José de Almassora
+- Caja Rural de Albal
+- Caja Rural de Algemesi
+- Caja Rural de Asturias
+- Caja Rural de Casas Ibanez
+- Caja Rural de Gijón
+- Caja Rural de Lalcudia
+- Caja Rural de Salamanca
+- Caja Rural de Soria
+- Caja Rural de Teruel
+- Caja Rural de Villamalea
+- Caja Rural de Zamora
+- Caja Rural del Sur
+- Caja rural de Extremadura
+- CajaSur
+- CajaViva
+- Colonya Caixa Pollença
+- Eurocaja Rural
+- Evo Banco
+- Fiare Banca Etica
+- Globalcaja
+- ING
+- Ibercaja
+- Inversis
+- Kutxabank
+- Laboral Kutxa
+- N26
+- Openbank
+- Paypal EU
+- Renta4 Banco
+- Revolut EU
+- Rural Nostra
+- Self Bank
+- Unicaja Banco
+- Wise
+- 
+## United Kingdom
+
+- ABN AMRO
+- AIB (NI)
+- AIB (NI) Business
+- Allied Irish Bank
+- Allied Irish Bank Business
+- Amex
+- B Bank
+- Bank of Ireland Business UK
+- Bank of Ireland UK
+- Bank of Scotland (Business)
+- Bank of Scotland (Personal)
+- Barclaycard
+- Barclaycard Commercial Payments
+- Barclays Business
+- Barclays Corporate
+- Barclays Personal
+- Barclays Wealth
+- Capital One
+- Cash Plus
+- Cater Allen
+- Chelsea Building Society
+- Clydesdale Bank
+- Coutts &amp; Company
+- Cumberland Building Society
+- Danske Bank
+- Danske Bank Business UK
+- First Direct
+- HSBC Personal
+- HSBC UK Business
+- Halifax Personal
+- Handelsbanken Business UK
+- Handelsbanken UK
+- Hoares Bank
+- Lloyds (Business)
+- Lloyds (Personal)
+- M&S Bank
+- MBNA Personal
+- Monzo
+- Monzo Proprietary
+- Nationwide
+- Natwest
+- Natwest Bankline
+- PayPal
+- Payoneer
+- Revolut
+- Royal Bank of Scotland
+- Royal Bank of Scotland Bankline
+- SVB
+- Sainsbury's Bank
+- Santander
+- Soldo UK
+- Starling Bank
+- TSB Bank
+- Tesco Bank
+- Tide
+- Ulster Bank (UK)
+- Unity Trust
+- Vanquis Bank
+- Virgin Money
+- Virgin Money (Essential)
+- Wise
+- Yorkshire Bank
+- Yorkshire Building Society
+- thinkmoney

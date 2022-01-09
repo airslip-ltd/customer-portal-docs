@@ -1,5 +1,3 @@
-import pagesApi from './pagesApi';
-
 export interface MuiPage {
   pathname: string;
   children?: MuiPage[];
@@ -33,12 +31,6 @@ const pages: readonly MuiPage[] = [
     children: [
       { pathname: '/getting-started/installation' },
       { pathname: '/getting-started/usage' },
-      { pathname: '/getting-started/example-projects' },
-      { pathname: '/getting-started/templates' },
-      { pathname: '/getting-started/learn' },
-      { pathname: '/getting-started/faq', title: 'FAQs' },
-      { pathname: '/getting-started/supported-components' },
-      { pathname: '/getting-started/supported-platforms' },
       { pathname: '/getting-started/support' },
     ],
   },
@@ -115,161 +107,106 @@ const pages: readonly MuiPage[] = [
     ],
   },
   {
-    title: 'Component API',
-    pathname: '/api-docs',
-    icon: 'CodeIcon',
-    children: [
-      ...pagesApi,
-      {
-        pathname: '/api-docs/data-grid',
-        title: 'Data Grid',
-        children: [
-          { pathname: '/api-docs/data-grid', title: 'API Reference' },
-          { pathname: '/api-docs/data-grid/data-grid', title: 'DataGrid' },
-          { pathname: '/api-docs/data-grid/data-grid-pro', title: 'DataGridPro' },
-          { pathname: '/api-docs/data-grid/grid-api', title: 'GridApi' },
-          { pathname: '/api-docs/data-grid/grid-col-def', title: 'GridColDef' },
-          { pathname: '/api-docs/data-grid/grid-cell-params', title: 'GridCellParams' },
-          { pathname: '/api-docs/data-grid/grid-row-params', title: 'GridRowParams' },
-          {
-            pathname: '/api-docs/data-grid/grid-csv-export-options',
-            title: 'GridCSVExportOptions',
-          },
-          {
-            pathname: '/api-docs/data-grid/grid-print-export-options',
-            title: 'GridPrintExportOptions',
-          },
-        ].map((page) => {
-          return {
-            ...page,
-            linkProps: { linkAs: `${page.pathname.replace(/^\/api-docs/, '/api')}/` },
-          };
-        }),
-      },
-    ]
-      .sort((a, b) =>
-        a.pathname.replace('/api-docs/', '').localeCompare(b.pathname.replace('/api-docs/', '')),
-      )
-      .map((page) => {
-        return {
-          ...page,
-          linkProps: { linkAs: `${page.pathname.replace(/^\/api-docs/, '/api')}/` },
-        };
-      }),
-  },
-  {
-    pathname: '/system',
+    pathname: '/data-model',
     icon: 'BuildIcon',
     children: [
-      { pathname: '/system/basics' },
-      { pathname: '/system/properties' },
-      { pathname: '/system/the-sx-prop', title: 'The sx prop' },
-      { pathname: '/system/borders' },
-      { pathname: '/system/display' },
-      { pathname: '/system/flexbox' },
-      { pathname: '/system/grid' },
-      { pathname: '/system/palette' },
-      { pathname: '/system/positions' },
-      { pathname: '/system/shadows' },
-      { pathname: '/system/sizing' },
-      { pathname: '/system/spacing' },
-      { pathname: '/system/screen-readers' },
-      { pathname: '/system/typography' },
-      { pathname: '/system/advanced' },
-      { pathname: '/system/box' },
-      { pathname: '/system/styled', title: 'styled' },
-    ],
-  },
-  {
-    pathname: '/customization',
-    icon: 'CreateIcon',
-    children: [
       {
-        pathname: '/customization',
-        subheader: '/customization/theme',
+        pathname: '/data-model',
+        subheader: '/data-model/shared',
         children: [
-          { pathname: '/customization/theming' },
-          { pathname: '/customization/palette' },
-          { pathname: '/customization/dark-mode', title: 'Dark mode' },
-          { pathname: '/customization/typography' },
-          { pathname: '/customization/spacing' },
-          { pathname: '/customization/breakpoints' },
-          { pathname: '/customization/density' },
-          { pathname: '/customization/z-index', title: 'z-index' },
-          { pathname: '/customization/transitions' },
-          { pathname: '/customization/theme-components', title: 'Components' },
-          { pathname: '/customization/default-theme', title: 'Default Theme' },
+          { pathname: '/data-model/shared/business' },
+          { pathname: '/data-model/shared/date' },
+          { pathname: '/data-model/shared/country' },
+          { pathname: '/data-model/shared/currency' },
+          { pathname: '/data-model/shared/currency-rate' },
         ],
       },
-      { pathname: '/customization/how-to-customize' },
-      { pathname: '/customization/color' },
-      { pathname: '/customization/unstyled-components' },
+      {
+        pathname: '/data-model',
+        subheader: '/data-model/banking',
+        children: [
+          { pathname: '/data-model/banking/bank-accounts' },
+          { pathname: '/data-model/banking/bank-accounts-history' },
+          { pathname: '/data-model/banking/bank-transactions' },
+        ],
+      },
+      {
+        pathname: '/data-model',
+        subheader: '/data-model/commerce',
+        children: [
+          { pathname: '/data-model/commerce/transactions' },
+          { pathname: '/data-model/commerce/inventory' },
+          { pathname: '/data-model/commerce/locations' },
+        ],
+      },
+      {
+        pathname: '/data-model',
+        subheader: '/data-model/accounting',
+        children: [
+          { pathname: '/data-model/accounting/accounts' },
+          { pathname: '/data-model/accounting/attachments' },
+          { pathname: '/data-model/accounting/balance-sheet' },
+          { pathname: '/data-model/accounting/bills' },
+          { pathname: '/data-model/accounting/bill-credit-notes' },
+          { pathname: '/data-model/accounting/bill-payments' },
+          { pathname: '/data-model/accounting/cash-flow-statement' },
+          { pathname: '/data-model/accounting/credit-notes' },
+          { pathname: '/data-model/accounting/customers' },
+          { pathname: '/data-model/accounting/direct-costs' },
+          { pathname: '/data-model/accounting/direct-incomes' },
+          { pathname: '/data-model/accounting/invoices' },
+          { pathname: '/data-model/accounting/journal-entries' },
+          { pathname: '/data-model/accounting/journals' },
+          { pathname: '/data-model/accounting/payments' },
+          { pathname: '/data-model/accounting/payment-methods' },
+          { pathname: '/data-model/accounting/profit-loss' },
+          { pathname: '/data-model/accounting/purchase-orders' },
+          { pathname: '/data-model/accounting/suppliers' },
+          { pathname: '/data-model/accounting/tax-rates' },
+          { pathname: '/data-model/accounting/tracking-categories' },
+          { pathname: '/data-model/accounting/transfers' },
+          { pathname: '/data-model/accounting/reference-types' },
+        ],
+      }
     ],
   },
   {
-    pathname: '/guides',
-    title: 'How To Guides',
-    icon: 'VisibilityIcon',
-    children: [
-      { pathname: '/guides/api', title: 'API Design Approach' },
-      { pathname: '/guides/classname-generator', title: 'ClassName Generator' },
-      { pathname: '/guides/understand-mui-packages', title: 'Understand MUI packages' },
-      { pathname: '/guides/typescript', title: 'TypeScript' },
-      { pathname: '/guides/interoperability', title: 'Style Library Interoperability' },
-      { pathname: '/guides/styled-engine' },
-      { pathname: '/guides/minimizing-bundle-size' },
-      { pathname: '/guides/composition' },
-      { pathname: '/guides/routing' },
-      { pathname: '/guides/server-rendering' },
-      { pathname: '/guides/responsive-ui', title: 'Responsive UI' },
-      { pathname: '/guides/pickers-migration', title: 'Migration from @material-ui/pickers' },
-      { pathname: '/guides/migration-v4', title: 'Migration From v4' },
-      { pathname: '/guides/migration-v3', title: 'Migration From v3' },
-      { pathname: '/guides/migration-v0x', title: 'Migration From v0.x' },
-      { pathname: '/guides/testing' },
-      { pathname: '/guides/localization' },
-      { pathname: '/guides/content-security-policy', title: 'Content Security Policy' },
-      { pathname: '/guides/right-to-left', title: 'Right-to-left' },
-      { pathname: '/guides/flow' },
-    ],
-  },
-  {
-    pathname: '/styles',
-    title: 'Styles (legacy)',
-    icon: 'StyleIcon',
-    children: [
-      { pathname: '/styles/basics' },
-      { pathname: '/styles/advanced' },
-      { pathname: '/styles/api', title: 'API' },
-    ],
-  },
-  {
-    pathname: '/discover-more',
+    pathname: '/supported-platforms',
     icon: 'AddIcon',
     children: [
-      { pathname: '/discover-more/showcase' },
-      { pathname: '/discover-more/related-projects' },
-      { pathname: '/discover-more/roadmap' },
-      { pathname: '/discover-more/backers', title: 'Sponsors & Backers' },
-      { pathname: '/discover-more/vision' },
-      { pathname: '/discover-more/changelog' },
-      { pathname: '/discover-more/languages' },
-      { pathname: '/about', title: 'About us' },
+      { pathname: '/supported-platforms/banking' },
+      { pathname: '/supported-platforms/commerce' },
+      { pathname: '/supported-platforms/accounting' },
     ],
   },
   {
-    pathname: 'https://mui.com/store/',
-    title: 'Templates',
-    icon: 'ReaderIcon',
-    linkProps: {
-      'data-ga-event-category': 'store',
-      'data-ga-event-action': 'click',
-      'data-ga-event-label': 'sidenav',
-    },
+    pathname: '/administration',
+    icon: 'AddIcon',
+    children: [
+      { pathname: '/administration/connection-insights' },
+      { pathname: '/administration/managing-businesses' },
+      { pathname: '/administration/managing-users' },
+      { pathname: '/administration/user-roles' },
+    ],
   },
-  { pathname: '/versions', ordered: false },
-  { pathname: '/', ordered: false, disableDrawer: true },
-  { pathname: 'https://medium.com/material-ui', title: 'Blog', icon: 'BookIcon' },
+  {
+    pathname: '/faqs',
+    title: 'FAQs',
+    icon: 'VisibilityIcon',
+    children: [
+      { pathname: '/faqs/how-long-does-it-take-for-financial-data-to-be-available-after-a-business-links-one-of-its-platforms' },
+      { pathname: '/faqs/how-does-airslip-access-business-data' },
+      { pathname: '/faqs/do-i-need-to-know-how-to-code-to-use-airslip' },
+    ],
+  },
+  {
+    pathname: '/glossary',
+    icon: 'StyleIcon',
+    children: [
+      { pathname: '/glossary/glossary' },
+      { pathname: '/glossary/glossary' },
+    ],
+  },
 ];
 
 export default pages;

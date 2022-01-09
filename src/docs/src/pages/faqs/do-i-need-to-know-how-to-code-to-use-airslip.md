@@ -1,0 +1,3 @@
+# Do I need to know how to code to use Airslip?
+
+No, our main product is the web-based portal as we understand businesses require a significant amount of resources to use API's if they want something more bespoke. We want all financial institutions to have access to their client's financial health with minimal effort. In turn, the Airslip Portal is powered by the Airslip API, so if you do want something more bespoke then email us at <partners@airslip.com> and we can get you set up.

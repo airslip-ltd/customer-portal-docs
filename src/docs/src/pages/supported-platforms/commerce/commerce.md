@@ -1,0 +1,52 @@
+# Commerce
+
+<p class="description">We currently support 47 widely used global commerce providers and continuing to grow each month.</p>
+
+- Stripe
+- Vend
+- SumUp
+- Square
+- Shopify
+- iZettle
+- Squarespace
+- Woocommerce
+- Magento
+- Walmart
+- Volusion
+- Amazon
+- eBay
+- Etsy
+- BigCommerce
+- WP e-Commerce
+- AceShop
+- AspDotNetStorefront
+- CommerceHQ
+- cs.cart
+- Cubecart
+- Salesforce Commerce Cloud
+- Ecwid
+- Gambio
+- Hybris
+- Interspire
+- JooCart
+- Lightspeed
+- LoadedCommerce
+- MijoShop
+- Neto
+- Opencart
+- OscMax
+- OsCommerce
+- Oxid esales
+- Pinnacle Cart
+- Presta Shop
+- Shift 4 Shop
+- Shop Script
+- Shopware
+- Swan Retail
+- Tomato Cart
+- Ubercart
+- VirtueMart
+- Webasyst
+- Xcart
+- Xt:Commerce
+- ZenCart

@@ -1,7 +1,9 @@
-# Accounts Payable Turnover
+# Labour cost percentage 
 
- This is a liquidity measure that shows how fast a company pays its suppliers. It looks at how many times a company pays off its average AP balance in a period, typically a year. It’s a key indicator of how a company manages its cash flow. A higher ratio indicates that a company pays its bills faster.
- 
- ## Formula
+Labour cost percentage is the percentage value of money spent on labour costs against the total revenue of the company during a specific period. It is the amount the company spends on salary and benefits.
 
-> Net Credit Purchases / Average accounts payable balance for period
+In simple terms, this metric provides an overview of the amount of investment a company makes in its employees to generate revenue. Employee Labour Percentage shows how well a company’s pay vs performance system works.
+
+## Formula
+
+> (Total labour costs / Gross revenue) x 100
