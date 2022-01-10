@@ -5,12 +5,8 @@ import { exactProp } from '@mui/utils';
 import NoSsr from '@mui/material/NoSsr';
 import Head from 'docs/src/modules/components/Head';
 import AppFrame from 'docs/src/modules/components/AppFrame';
-import EditPage from 'docs/src/modules/components/EditPage';
 import AppContainer from 'docs/src/modules/components/AppContainer';
 import AppTableOfContents from 'docs/src/modules/components/AppTableOfContents';
-import Ad from 'docs/src/modules/components/Ad';
-import AdManager from 'docs/src/modules/components/AdManager';
-import AdGuest from 'docs/src/modules/components/AdGuest';
 import AppLayoutDocsFooter from 'docs/src/modules/components/AppLayoutDocsFooter';
 
 const TOC_WIDTH = 210;
@@ -40,10 +36,10 @@ const StyledAppContainer = styled(AppContainer, {
     position: 'relative',
     ...(!disableAd && {
       '&& .description': {
-        marginBottom: 198,
+        marginBottom: 10,
       },
       '&& .description.ad': {
-        marginBottom: 40,
+        marginBottom: 10,
       },
       ...(!disableToc && {
         [theme.breakpoints.up('sm')]: {
@@ -82,24 +78,16 @@ function AppLayoutDocs(props) {
 
   return (
     <AppFrame>
-      <AdManager>
-        <Head title={`${title} - MUI`} description={description} />
-        {disableAd ? null : (
-          <AdGuest>
-            <Ad />
-          </AdGuest>
-        )}
-        <Main disableToc={disableToc}>
-          <StyledAppContainer disableAd={disableAd} disableToc={disableToc}>
-            <ActionsDiv>{location && <EditPage markdownLocation={location} />}</ActionsDiv>
-            {children}
-            <NoSsr>
-              <AppLayoutDocsFooter />
-            </NoSsr>
-          </StyledAppContainer>
-          {disableToc ? null : <AppTableOfContents toc={toc} />}
-        </Main>
-      </AdManager>
+      <Head title={`${title} - Airslip`} description={description} />
+      <Main disableToc={disableToc}>
+        <StyledAppContainer>
+          {children}
+          <NoSsr>
+            <AppLayoutDocsFooter />
+          </NoSsr>
+        </StyledAppContainer>
+        {disableToc ? null : <AppTableOfContents toc={toc} />}
+      </Main>
     </AppFrame>
   );
 }
