@@ -11,7 +11,7 @@
 /benchmark/**/dist
 /coverage
 /docs/.env.local
-/docs/export
+/src/docs/export
 /docs/pages/playground.tsx
 /examples/**/.cache
 /packages/mui-codemod/lib
