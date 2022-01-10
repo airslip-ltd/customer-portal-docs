@@ -16,7 +16,7 @@ Information on the business to help validate the legitimacy of the connected bus
 | **contact-email** | `string` | The main email contact source |
 | **industry** | `string` | Static values for Industry |
 | **company-number** | `string` | The registered legal number for the business |
-| **company-type** | `string` | The registered type of business, LLP, Soletrader, Corp etc |
+| **company-type** | `string` | The registered type of business, LLP, Sole-trader, Corp etc |
 | **vat-number** | `string` | The registered VAT number for the business  |
 | **created-date** | `string` ([Date](/data-model/shared/date/)) | Time at which the object was created |
 
@@ -24,6 +24,15 @@ Information on the business to help validate the legitimacy of the connected bus
 
 ```json
 {
-  "property-to-go-here": "value-to-go-here"
+  "id": "ca9e85e0-0478-433d-ae9f-0b3c4f04bfe4",
+  "name": "Amazing Company",
+  "legal-name": "Amazing Company Ltd",
+  "address": "123 Cool Avenue, Growth-upon-Thames, Success, TW18 1LP",
+  "website-url": "https://www.amazingcompany.com",
+  "contact-email": "support@amazingcompany.com",
+  "industry": "Information Services",
+  "company-number": "13439188",
+  "vat-number": "GB12345678",
+  "created-date": "2022-01-10T14:57:43Z",
 }
 ```

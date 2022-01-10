@@ -45,17 +45,17 @@ declare module '@mui/material/styles/createTypography' {
 const defaultTheme = createTheme();
 
 const blue = {
-  50: '#f1fcfb',
-  100: '#f1fcfb',
-  200: '#acf0e8',
-  300: '#90ebe1',
-  400: '#82e8dd',
-  main: '#75E6dA',
-  500: '#75E6dA',
-  600: '#8dcdc6', // vs blueDark 900: WCAG 4.6 AAA (large), APCA 36 Not for reading text
-  700: '#7dc6be',
-  800: '#6dbfb6',
-  900: '#5db8ae',
+  50: '#F1FCFB',
+  100: '#F1FCFB',
+  200: '#ACF0E8',
+  300: '#90EBE1',
+  400: '#7bc5bd',
+  main: '#9fd5cf',
+  500: '#8dcdc6',
+  600: '#8DCDC6', // vs blueDark 900: WCAG 4.6 AAA (large), APCA 36 Not for reading text
+  700: '#7DC6bE',
+  800: '#6DBFB6',
+  900: '#5DB8AE',
 };
 export const blueDark = {
   50: '#E2EDF8',

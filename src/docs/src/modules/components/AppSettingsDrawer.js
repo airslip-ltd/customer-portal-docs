@@ -13,9 +13,6 @@ import CloseIcon from '@mui/icons-material/Close';
 import LightModeIcon from '@mui/icons-material/LightMode';
 import DarkModeOutlinedIcon from '@mui/icons-material/DarkModeOutlined';
 import SettingsBrightnessIcon from '@mui/icons-material/SettingsBrightness';
-import FormatTextdirectionLToRIcon from '@mui/icons-material/FormatTextdirectionLToR';
-import FormatTextdirectionRToLIcon from '@mui/icons-material/FormatTextdirectionRToL';
-import Link from 'docs/src/modules/components/Link';
 import { useTranslate } from 'docs/src/modules/utils/i18n';
 import { useChangeTheme } from 'docs/src/modules/components/ThemeContext';
 import { getCookie } from 'docs/src/modules/utils/helpers';
@@ -126,45 +123,6 @@ function AppSettingsDrawer(props) {
             {t('settings.dark')}
           </IconToggleButton>
         </ToggleButtonGroup>
-        <Heading gutterBottom id="settings-direction">
-          {t('settings.direction')}
-        </Heading>
-        <ToggleButtonGroup
-          exclusive
-          value={theme.direction}
-          onChange={handleChangeDirection}
-          aria-labelledby="settings-direction"
-          color="primary"
-          fullWidth
-        >
-          <IconToggleButton
-            value="ltr"
-            aria-label={t('settings.light')}
-            data-ga-event-category="settings"
-            data-ga-event-action="ltr"
-          >
-            <FormatTextdirectionLToRIcon fontSize="small" />
-            {t('settings.ltr')}
-          </IconToggleButton>
-          <IconToggleButton
-            value="rtl"
-            aria-label={t('settings.system')}
-            data-ga-event-category="settings"
-            data-ga-event-action="rtl"
-          >
-            <FormatTextdirectionRToLIcon fontSize="small" />
-            {t('settings.rtl')}
-          </IconToggleButton>
-        </ToggleButtonGroup>
-        <Heading gutterBottom>{t('settings.color')}</Heading>
-        <Link
-          href="/customization/color/#playground"
-          data-ga-event-category="settings"
-          data-ga-event-action="colors"
-          variant="body2"
-        >
-          {t('settings.editWebsiteColors')}
-        </Link>
       </Box>
     </Drawer>
   );

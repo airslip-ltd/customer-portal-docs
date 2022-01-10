@@ -4,21 +4,21 @@
 
 To get financial data on your customers, you need to add them as a new business first.
 
-1. Go to the [Airslip Portal](/getting-started/installation/).
+1. Go to the [Airslip Portal](/getting-started/usage/).
 
 2. In the left navigation panel select [Businesses](/data-model/shared/business/).
 
 3. Select **New Business**.
 
-4. Fill in the mandatory field **Company Name**. If you would like to invite them from the [Airslp Portal](/getting-started/installation/) fill in their contact details.
+4. Fill in the mandatory field **Company Name**. If you would like to invite them from the [Airslip Portal](/getting-started/usage/) fill in their contact details.
 
 ![Invite Business](/static/images/screenshots/invite.png)
 
 ## Updating a business
 
-Updating a business name is possible in the [Airslip Portal](/getting-started/installation/).
+Updating a business name is possible in the [Airslip Portal](/getting-started/usage/).
 
-1. Go to the [Airslip Portal](/getting-started/installation/).
+1. Go to the [Airslip Portal](/getting-started/usage/).
 
 2. In the left navigation panel select [Businesses](/data-model/shared/business/).
 
@@ -26,9 +26,9 @@ Updating a business name is possible in the [Airslip Portal](/getting-started/in
 
 ## Delete a business
 
-You may need to delete a business if a potential prospect is deemed as bad business or a mistake has occured.
+You may need to delete a business if a potential prospect is deemed as bad business or a mistake has occurred.
 
-1. Go to the [Airslip Portal](/getting-started/installation/).
+1. Go to the [Airslip Portal](/getting-started/usage/).
 
 2. In the left navigation panel select [Businesses](/data-model/shared/business/).
 

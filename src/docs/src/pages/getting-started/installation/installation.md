@@ -1,6 +1,6 @@
 # Overview
 
-<p class="description">Get real-time financial data on your clients through visual dashboards</p>
+<p class="description">Get real-time financial data on your clients through visual dashboards.</p>
 
 Airslip enables credit institutions to access real-time financial data on their business clients to help mitigate risk & exposure for loans, insurance and trade credit.
 
@@ -12,7 +12,7 @@ The Airslip API powers the portal, which means that the functionality in the por
 
 The Airslip Portal enables you to:
 
-- View common accounting [statistic & metrics](https://github.com/airslip-ltd/customer-portal-docs/wiki/Statistics-&-Metrics)
+- View common accounting [statistic & metrics](/components/overview/)
 - View real-time sales data through banking, commerce and accounting platforms
 - View bank transactions for connected businesses and all bank accounts
 - Create and invite businesses

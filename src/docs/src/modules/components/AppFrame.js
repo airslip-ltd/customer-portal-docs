@@ -234,7 +234,7 @@ function AppFrame(props) {
           </NavIconButton>
           <GrowingDiv />
           <Stack direction="row" spacing={1.5} sx={{ '& > button': { width: 38 } }}>
-            <DeferredAppSearch />
+            {/* <DeferredAppSearch /> */}
             <Tooltip title={t('appFrame.toggleSettings')} enterDelay={300}>
               <IconButton color="inherit" onClick={handleSettingsDrawerOpen} sx={{ px: '8px' }}>
                 <SettingsIcon fontSize="small" />

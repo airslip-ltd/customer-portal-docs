@@ -4,8 +4,8 @@ The Airslip Portal dashboard gives you a real-time insight on the number of busi
 
 | Status | Meaning |
 | :- | :- |
-| Connnected | A business that has connected one more providers. |
-| Not Connnected | A business that has received an invitation but not yet connected a provider. |
+| Connected | A business that has connected one more providers. |
+| Not Connected | A business that has received an invitation but not yet connected a provider. |
 
 ## Next steps
 

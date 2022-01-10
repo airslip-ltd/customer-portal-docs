@@ -39,6 +39,6 @@ An SME will receive an invitation link, either from you with the unique invitati
 
 Now you are setup, it is time to learn more about:
 
-- What [metrics](/components/typography/) are avilable.
-- What the data models for [banking](/data-model/banking/), [commerce](/data-model/commerce/) and [accounting](/data-model/accounting/) look like.
-- How to manage [businesses](/customization/how-to-customize/) and [users](/customization/how-to-customize/).
+- What [metrics](/components/overview//) are available.
+- What the data models for [banking](/data-model/banking/bank-accounts), [commerce](/data-model/commerce/transactions) and [accounting](/data-model/accounting/accounts) look like.
+- How to manage [businesses](/administration/managing-businesses) and [users](/administration/managing-users/).

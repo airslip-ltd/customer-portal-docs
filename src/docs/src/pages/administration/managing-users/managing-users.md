@@ -6,9 +6,9 @@ When you first gain access to Airslip, you'll be set up with a single Administra
 
 For an explanation of what each user level means, please see [User roles](/administration/user-roles).
 
-To add new users from the [Airslip Portal](/getting-started/installation/).
+To add new users from the [Airslip Portal](/getting-started/usage/).
 
-1. Open the [Airslip Portal](/getting-started/installation/) and log in to your Administrator account.
+1. Open the [Airslip Portal](/getting-started/usage/) and log in to your Administrator account.
 2. In the left navigation pane;, select **Account > Users**.
 3. Select **Create new user** and fill in the user's name and email address.
 4. From the **User Role** list, select the [correct permission](/docs/user-roles) level for the user.
