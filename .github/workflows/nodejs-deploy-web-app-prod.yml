@@ -61,12 +61,11 @@ jobs:
       run: |
         yarn install
         yarn docs:build
-        yarn docs:export
       working-directory: ./src
 
     - name: add process.json
       run: |
-        echo '{ script: "serve", env: { PM2_SERVE_SPA: "true", PM2_SERVE_HOMEPAGE: "/index.html" } }' >> ${{ env.PUBLISH_PATH }}/export/process.json
+        echo '{ script: "yarn start", env: { PM2_SERVE_SPA: "true", PM2_SERVE_HOMEPAGE: "/index.html" } }' >> ${{ env.PUBLISH_PATH }}/process.json
 
     - name: Get AppService publish profile
       id: publishprofile
@@ -82,4 +81,4 @@ jobs:
       with:
         app-name: ${{ steps.terraform_update.outputs.app_service_name }}
         publish-profile: ${{ steps.publishprofile.outputs.profile }}
-        package: ${{ env.PUBLISH_PATH }}/export
+        package: ${{ env.PUBLISH_PATH }}
