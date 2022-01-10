@@ -23,7 +23,7 @@ The Airslip Portal enables you to:
 
 *Dashboard Preview*
 
-![Dashboard Preview](/src/docs/public/static/images/screenshots/dashboard.png)
+![Dashboard Preview](/static/images/screenshots/dashboard.png)
 
 ## Next steps
 

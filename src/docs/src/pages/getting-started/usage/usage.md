@@ -15,7 +15,7 @@ By going to one of the above links and entering your login credentials provided 
 
 *Logic Screen*
 
-![Login Screen](/src/docs/public/static/images/screenshots/login.png)
+![Login Screen](/static/images/screenshots/login.png)
 
 ## How do I invite a business?
 
@@ -23,7 +23,7 @@ To invite a business all you need is the business name, contact name and contact
 
 *Invite Business Screen*
 
-![Invite Business](/src/docs/public/static/images/screenshots/invite.png)
+![Invite Business](/static/images/screenshots/invite.png)
 
 ## How does a business link their banking, commerce or banking platform?
 
@@ -31,9 +31,9 @@ An SME will receive an invitation link, either from you with the unique invitati
 
 *Add Provider Screen*
 
-![Add Bank](/src/docs/public/static/images/screenshots/add-bank.png)
+![Add Bank](/static/images/screenshots/add-bank.png)
 
-![Add Commerce](/src/docs/public/static/images/screenshots/add-commerce.png)
+![Add Commerce](/static/images/screenshots/add-commerce.png)
 
 ## Next steps
 

@@ -6,7 +6,7 @@
 
 If the documentation isn't quite clear enough do no hesitate to reach out to <support@airslip.com>.
 
-> 💡 **Tip**: To speed things up and if you have one, include the tracking-id in your support requests.
+> 💡 **Tip**: If you are using our API directly, to speed things up, include the tracking-id in your support requests.
 
 ## What should I include in the body of the email?
 
