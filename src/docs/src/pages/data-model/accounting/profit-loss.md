@@ -43,11 +43,11 @@ A profit and loss report shows a company's total income and expenses for a speci
 | **name** | `string` | Name of the report line item, for example: `Income` or `Sales`. |
 | **value** | `integer` | The integer amount in pennies representing Numerical value of the line item. |
 | **items** |     | Report line items for the given date range. |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

@@ -75,11 +75,11 @@
 | :- | :- | :- |
 | method | `string` | The method of payment |
 | amount | `integer` | The integer amount in pennies representing the total amount for the payment method |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

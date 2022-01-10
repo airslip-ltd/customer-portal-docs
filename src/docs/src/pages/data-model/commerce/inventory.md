@@ -23,11 +23,11 @@
 
 - Active
 - Inactive
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

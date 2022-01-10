@@ -58,11 +58,11 @@ This information can be used to provide visibility on a business's expected paya
 | **name** | `string` | Name of the contact at the delivery address. |
 | **email** | `string` | Email address of the contact at the delivery address. |
 | **phone** | `string` | Phone number of the contact at the delivery address. |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

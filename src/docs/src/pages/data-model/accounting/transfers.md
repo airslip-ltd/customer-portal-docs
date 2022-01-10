@@ -29,11 +29,11 @@ From the Transfers endpoints, you can:
 | account-ref | [Reference type](/data-model/accounting/reference-types#account-ref) | The account that the transfer is moving from or to. |
 | currency | `string` ([Currency](/data-model/shared/currency/)) | ISO currency code recorded for the transfer in the accounting platform. |
 | amount | `integer` | The integer amount in pennies representing the the amount transferred between accounts. |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

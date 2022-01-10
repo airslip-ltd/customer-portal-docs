@@ -39,11 +39,11 @@ Data types that reference a supplier, for example bills and bill payments, use a
 | :- | :- | :- |
 | **id** | `string` | Unique identifier for the supplier in the accounting platform. |
 | **name** | `string` | Name of the supplier in the accounting platform. |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

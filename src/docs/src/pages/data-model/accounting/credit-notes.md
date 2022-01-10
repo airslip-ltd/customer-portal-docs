@@ -83,11 +83,11 @@ It contains details of:
 > Requirements for reference fields
 > 
 > Reference fields are only populated if the corresponding data type has been synchronised. If you see null values for these fields, please complete a new sync for the corresponding data type. For example, sync the customers data type for **[customerRef](/data-model/accounting/reference-types#customer-ref)**.
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

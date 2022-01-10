@@ -51,11 +51,11 @@ Data types that reference a tax rate, for example invoice and bill line items, u
 | :- | :- | :- |
 | **id** | `string` | Unique identifier for the tax rate in the accounting platform. |
 | **name** | `string` | Name of the tax rate in the accounting platform. |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

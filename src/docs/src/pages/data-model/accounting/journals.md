@@ -43,11 +43,11 @@ This reference enables Airslip to push journal entries to the integrations that 
 | :- | :- | :- |
 | **id** | `string` | Journal ID. |
 | **name** | `string` | Journal name. |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

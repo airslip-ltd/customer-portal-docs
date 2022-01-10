@@ -59,11 +59,11 @@ Links a journal entry to the underlying record that created it.
 | :- | :- | :- |
 | **id** | `string` | Unique identifier of the underlying record in the Airslip system. |
 | **data-type** | `string` | Data type of the underlying record that created the journal entry. |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

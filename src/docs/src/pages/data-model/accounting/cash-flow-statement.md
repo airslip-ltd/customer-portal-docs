@@ -39,11 +39,11 @@ items
 | **name** | `string` | Name of the account in the accounting platform. |
 | **value-number** | `integer` | Balance of the account in the accounting platform. |
 | **items** |     | An array of [ReportLines](#report-line) items. |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

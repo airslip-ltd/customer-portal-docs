@@ -77,11 +77,11 @@ Airslip doesn't have a separate data type for these, so you'll see the itemized 
 | **currency-rate** | `decimal` ([Currency rate](/data-model/shared/currency-rate/)) | Conversion rate between the currency of the allocated payment and the currency of the transaction. |
 | **allocated-on-date** | `string` ([Date](/data-model/shared/date/)) | The date the payment was allocated. |
 | **total-amount** | `integer` | The integer amount in pennies representing the the total amount that has been allocated. |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

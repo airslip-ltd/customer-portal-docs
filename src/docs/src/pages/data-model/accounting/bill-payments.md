@@ -76,7 +76,7 @@ The allocations of the bill payment. The sum of the amount in links plus the lin
 > 
 > Requirements for reference fields
 > 
-> The [supplier reference](#supplier-reference) fields are only populated if the corresponding data type has been synchronised. If you see null values for these fields, please complete a new sync for the corresponding data type. For example, sync the suppliers data type for [**supplierRef**](#supplier-reference).
+<!-- > The [supplier reference](#supplier-reference) fields are only populated if the corresponding data type has been synchronised. If you see null values for these fields, please complete a new sync for the corresponding data type. For example, sync the suppliers data type for [**supplierRef**](#supplier-reference).
 
 ## Example data
 
@@ -84,4 +84,4 @@ The allocations of the bill payment. The sum of the amount in links plus the lin
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

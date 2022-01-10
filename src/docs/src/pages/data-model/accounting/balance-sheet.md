@@ -27,11 +27,11 @@
 | **name** | `string` | Name of the account in the accounting platform |
 | **value** | `integer` | The integer amount in pennies representing the balance of the account in the accounting platform |
 | **items** |     | An array of [ReportLine](#report-line) items |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

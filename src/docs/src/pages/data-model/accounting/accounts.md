@@ -35,11 +35,11 @@ Data types that reference an account, for example bill and invoice line items, u
 | :- | :- | :- |
 | **id** | `string` | Unique identifier for the account in the accounting platform. |
 | **name** | `string` | Name of the account in the accounting platform. |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

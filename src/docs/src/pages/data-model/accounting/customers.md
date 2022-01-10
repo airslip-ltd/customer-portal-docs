@@ -57,11 +57,11 @@ Data types that reference a customer, for example invoices, credit notes and pay
 | :- | :- | :- |
 | **id** | `string` | Unique identifier for the customer in the accounting platform. |
 | **name** | `string` | Name of the customer in the accounting platform. |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

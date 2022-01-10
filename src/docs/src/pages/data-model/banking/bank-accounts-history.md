@@ -15,6 +15,9 @@
 
 ```json
 {
-  "property-to-go-here": "value-to-go-here"
+  "id": "ca9e85e0-0478-433d-ae9f-0b3c4f04bfe4",
+  "account-id": "aa9e85e0-0478-433d-ae9f-0b3c4f04bfe4",
+  "balance": 1456780,
+  "date": "2022-01-10T14:57:43Z",
 }
 ```

@@ -12,11 +12,11 @@ A Payment Method represents the payment method(s) used to pay a Bill. Payment Me
 | **status** | `string` | Status of the Payment Method:  <br>\+ `Active`: Available for use  <br>\+ `Archived`: Unavailable  <br>\+ `Unknown` |
 | **modified-date** | `string` ([Date](/data-model/shared/date/)) | Date the payment method details were last updated in the Airslip system. |
 | **source-modified-date** | `string` ([Date](/data-model/shared/date/)) | Date the payment method details were last changed in the accounting system. |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

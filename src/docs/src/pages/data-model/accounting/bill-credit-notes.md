@@ -71,11 +71,11 @@ Details of each line of the bill credit note.
 | **currency-rate** | `decimal` ([Currency rate](/data-model/shared/currency-rate/)) |     |
 | **allocated-on-date** | `string` ([Date](/data-model/shared/date/)) |     |
 | **total-amount** | `integer` | The integer amount in pennies representing the total allocated amount. |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->

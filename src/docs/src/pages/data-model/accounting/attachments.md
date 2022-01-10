@@ -12,11 +12,11 @@
 | **created-date** | `string`  ([Date](/data-model/shared/date/)) | Date the attachment was uploaded and attached in the accounting platform. |
 | **file-size** | `integer` | File size in bytes. For example, if this reads 46153, then the file size is 46kb. |
 | **include-when-sent** | `boolean` | If `true` then the attachment is included with the associated invoice, bill or direct costs when it is printed, emailed, or sent to a customer, if the underlying accounting platform allows this. |
-
+<!-- 
 ## Example data
 
 ```json
 {
   "property-to-go-here": "value-to-go-here"
 }
-```
+``` -->
