@@ -1,25 +1,19 @@
 import * as React from 'react';
 import PropTypes from 'prop-types';
 import NextLink from 'next/link';
-import Button from '@mui/material/Button';
 import Divider from '@mui/material/Divider';
 import { styled, alpha } from '@mui/material/styles';
 import List from '@mui/material/List';
 import Drawer from '@mui/material/Drawer';
-import Menu from '@mui/material/Menu';
-import MenuItem from '@mui/material/MenuItem';
 import SwipeableDrawer from '@mui/material/SwipeableDrawer';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import Box from '@mui/material/Box';
 import { unstable_useEnhancedEffect as useEnhancedEffect } from '@mui/utils';
-import SvgMuiLogo from 'docs/src/icons/SvgMuiLogo';
-import DiamondSponsors from 'docs/src/modules/components/DiamondSponsors';
+import SvgAirslipLogo from 'docs/src/icons/SvgAirslipLogo';
 import AppNavDrawerItem from 'docs/src/modules/components/AppNavDrawerItem';
 import { pageToTitleI18n } from 'docs/src/modules/utils/helpers';
 import PageContext from 'docs/src/modules/components/PageContext';
-import { useUserLanguage, useTranslate } from 'docs/src/modules/utils/i18n';
-import ArrowDropDownRoundedIcon from '@mui/icons-material/ArrowDropDownRounded';
-import DoneRounded from '@mui/icons-material/DoneRounded';
+import { useTranslate } from 'docs/src/modules/utils/i18n';
 
 const savedScrollTop = {};
 
@@ -159,9 +153,6 @@ const iOS = typeof navigator !== 'undefined' && /iPad|iPhone|iPod/.test(navigato
 function AppNavDrawer(props) {
   const { className, disablePermanent, mobileOpen, onClose, onOpen } = props;
   const { activePage, pages } = React.useContext(PageContext);
-  const [anchorEl, setAnchorEl] = React.useState(null);
-  const userLanguage = useUserLanguage();
-  const languagePrefix = userLanguage === 'en' ? '' : `/${userLanguage}`;
   const t = useTranslate();
   const mobile = useMediaQuery((theme) => theme.breakpoints.down('lg'));
 
@@ -174,122 +165,9 @@ function AppNavDrawer(props) {
           <ToolbarDiv>
             <NextLink href="/" passHref onClick={onClose}>
               <Box component="a" aria-label={t('goToHome')} sx={{ lineHeight: 0, mr: 2 }}>
-                <SvgMuiLogo width={30} />
+                <SvgAirslipLogo width={30} />
               </Box>
             </NextLink>
-            {process.env.LIB_VERSION ? (
-              <React.Fragment>
-                <Button
-                  onClick={(event) => {
-                    setAnchorEl(event.currentTarget);
-                  }}
-                  size="small"
-                  variant="outlined"
-                  endIcon={<ArrowDropDownRoundedIcon fontSize="small" />}
-                  sx={{
-                    border: (theme) =>
-                      `1px solid ${
-                        theme.palette.mode === 'dark'
-                          ? theme.palette.primaryDark[700]
-                          : theme.palette.grey[200]
-                      }`,
-                    color: (theme) =>
-                      theme.palette.mode === 'dark'
-                        ? theme.palette.primary[300]
-                        : theme.palette.primary[500],
-                    mr: 2,
-                    '&:hover': {
-                      borderColor: (theme) =>
-                        theme.palette.mode === 'dark'
-                          ? theme.palette.primaryDark[600]
-                          : theme.palette.grey[300],
-                      background: (theme) =>
-                        theme.palette.mode === 'dark'
-                          ? alpha(theme.palette.primaryDark[700], 0.4)
-                          : theme.palette.grey[50],
-                    },
-                  }}
-                >
-                  {/* eslint-disable-next-line material-ui/no-hardcoded-labels -- version string is untranslatable */}
-                  {`v${process.env.LIB_VERSION}`}
-                </Button>
-                <Menu
-                  anchorEl={anchorEl}
-                  open={Boolean(anchorEl)}
-                  onClose={() => setAnchorEl(null)}
-                  PaperProps={{
-                    variant: 'outlined',
-                    elevation: 0,
-                    sx: {
-                      mt: 0.5,
-                      minWidth: 180,
-                      backgroundImage: 'none',
-                      borderColor: (theme) =>
-                        theme.palette.mode === 'dark' ? 'primaryDark.700' : 'grey.200',
-                      bgcolor: (theme) =>
-                        theme.palette.mode === 'dark' ? 'primaryDark.900' : 'background.paper',
-                      boxShadow: (theme) =>
-                        `0px 4px 20px ${
-                          theme.palette.mode === 'dark'
-                            ? 'rgba(0, 0, 0, 0.5)'
-                            : 'rgba(170, 180, 190, 0.3)'
-                        }`,
-                      '& .MuiMenuItem-root': {
-                        fontSize: (theme) => theme.typography.pxToRem(14),
-                        fontWeight: 500,
-                        '&:hover': {
-                          color: (theme) =>
-                            theme.palette.mode === 'dark' ? '#fff' : theme.palette.common.black,
-                          backgroundColor: (theme) =>
-                            theme.palette.mode === 'dark'
-                              ? alpha(theme.palette.primaryDark[700], 0.4)
-                              : theme.palette.grey[50],
-                        },
-                        '&:focus': {
-                          backgroundColor: (theme) =>
-                            theme.palette.mode === 'dark'
-                              ? alpha(theme.palette.primaryDark[700], 0.4)
-                              : theme.palette.grey[50],
-                        },
-                        '&.Mui-selected': {
-                          fontWeight: 500,
-                          color: (theme) =>
-                            theme.palette.mode === 'dark'
-                              ? theme.palette.primary[300]
-                              : theme.palette.primary[600],
-                          backgroundColor: (theme) =>
-                            theme.palette.mode === 'dark'
-                              ? theme.palette.primaryDark[700]
-                              : alpha(theme.palette.primary[100], 0.6),
-                        },
-                      },
-                    },
-                  }}
-                >
-                  <MenuItem selected onClick={() => setAnchorEl(null)}>
-                    {/* eslint-disable-next-line material-ui/no-hardcoded-labels -- version string is untranslatable */}
-                    {`v${process.env.LIB_VERSION}`} <DoneRounded sx={{ fontSize: 16, ml: 0.25 }} />
-                  </MenuItem>
-                  <MenuItem
-                    component="a"
-                    href={`https://v4.mui.com${languagePrefix}/`}
-                    onClick={onClose}
-                  >
-                    {/* eslint-disable-next-line material-ui/no-hardcoded-labels -- version string is untranslatable */}
-                    {`v4`}
-                  </MenuItem>
-                  <Divider />
-                  <MenuItem
-                    component="a"
-                    href={`https://mui.com${languagePrefix}/versions/`}
-                    onClick={onClose}
-                  >
-                    {/* eslint-disable-next-line material-ui/no-hardcoded-labels -- version string is untranslatable */}
-                    {`View all versions`}
-                  </MenuItem>
-                </Menu>
-              </React.Fragment>
-            ) : null}
           </ToolbarDiv>
         </ToolbarIE11>
         <Divider
@@ -300,12 +178,11 @@ function AppNavDrawer(props) {
                 : theme.palette.grey[100],
           }}
         />
-        <DiamondSponsors spot="drawer" />
         {navItems}
         <Box sx={{ height: 40 }} />
       </React.Fragment>
     );
-  }, [activePage, pages, onClose, languagePrefix, t, anchorEl, setAnchorEl]);
+  }, [activePage, pages, onClose, t]);
 
   return (
     <nav className={className} aria-label={t('mainNavigation')}>
