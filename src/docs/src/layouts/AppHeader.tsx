@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { styled, alpha, useTheme } from '@mui/material/styles';
+import { styled, alpha } from '@mui/material/styles';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
@@ -12,10 +12,6 @@ import { useChangeTheme } from 'docs/src/modules/components/ThemeContext';
 import Link from 'docs/src/modules/components/Link';
 import { DeferredAppSearch } from 'docs/src/modules/components/AppFrame';
 import ROUTES from 'docs/src/route';
-import Tooltip from '@mui/material/Tooltip';
-import IconButton from '@mui/material/IconButton';
-import GitHubIcon from '@mui/icons-material/GitHub';
-import { useTranslate } from 'docs/src/modules/utils/i18n';
 
 const Header = styled('header')(({ theme }) => ({
   position: 'sticky',
@@ -33,12 +29,10 @@ const Header = styled('header')(({ theme }) => ({
 }));
 
 export default function AppHeader() {
-  const theme = useTheme();
   const changeTheme = useChangeTheme();
   const [mode, setMode] = React.useState<string | null>(null);
   const prefersDarkMode = useMediaQuery('(prefers-color-scheme: dark)');
 
-  const t = useTranslate();
 
   React.useEffect(() => {
     const initialMode = getCookie('paletteMode') || 'system';
@@ -71,45 +65,6 @@ export default function AppHeader() {
         <Box sx={{ mr: { xs: 1, md: 1 } }}>
           <DeferredAppSearch />
         </Box>
-        <Tooltip title={t('appFrame.github')} enterDelay={300}>
-          <IconButton
-            component="a"
-            color="inherit"
-            href="https://github.com/mui-org/"
-            data-ga-event-category="header"
-            data-ga-event-action="github"
-            sx={{
-              position: 'relative',
-              p: '6.5px',
-              mr: 1,
-              borderRadius: 1,
-              border: '1px solid',
-              color: theme.palette.mode === 'dark' ? 'primary.300' : 'primary.main',
-              bgcolor: theme.palette.mode === 'dark' ? 'primaryDark.900' : 'transparent',
-              borderColor: theme.palette.mode === 'dark' ? 'primaryDark.700' : 'grey.200',
-              '& svg': { width: 20, height: 20 },
-              '&:hover': {
-                background:
-                  theme.palette.mode === 'dark'
-                    ? alpha(theme.palette.primaryDark[700], 0.4)
-                    : alpha(theme.palette.grey[100], 0.7),
-                borderColor:
-                  theme.palette.mode === 'dark'
-                    ? theme.palette.primaryDark[600]
-                    : theme.palette.grey[300],
-              },
-              '&:focus': {
-                boxShadow: `0 0 0 1px ${
-                  theme.palette.mode === 'dark'
-                    ? theme.palette.primaryDark[600]
-                    : theme.palette.grey[200]
-                }`,
-              },
-            }}
-          >
-            <GitHubIcon fontSize="small" />
-          </IconButton>
-        </Tooltip>
         {mode !== null ? (
           <ThemeModeToggle
             checked={mode === 'system' ? prefersDarkMode : mode === 'dark'}
