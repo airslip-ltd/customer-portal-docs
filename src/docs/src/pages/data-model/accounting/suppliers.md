@@ -1,6 +1,6 @@
 # Suppliers
 
-A supplier is a person or organisation that provides a product or service. From the Suppliers endpoints, you can retrieve a list of [all the suppliers for a company](https://api.codat.io/swagger/index.html#/Suppliers/get_companies__companyId__data_suppliers). Suppliers' data links to accounts payable [bills](/data-model/accounting/bills).
+A supplier is a person or organisation that provides a product or service. From the Suppliers endpoints, you can retrieve a list of all the suppliers for a company. Suppliers' data links to accounts payable [bills](/data-model/accounting/bills).
 
 ## Data model
 

@@ -1,15 +1,13 @@
 # Transfers
 
-Explore the [Transfers](https://api.codat.io/swagger/index.html#/Transfers) endpoints in Swagger.
-
 Transfers are used to record the movement of money between two bank accounts  
 or between a bank account and a nominal account.
 
 From the Transfers endpoints, you can:
 
-* [Retrieve a list of all transfers for a specified company](https://api.codat.io/swagger/index.html#/Transfers/get_companies__companyId__connections__connectionId__data_transfers)
-* [Retrieve a single transfer for a specified company](https://api.codat.io/swagger/index.html#/Transfers/get_companies__companyId__connections__connectionId__data_transfers__transferId_)
-* [Add a new transfer for a specified company](https://api.codat.io/swagger/index.html#/Transfers/post_companies__companyId__connections__connectionId__push_transfers)
+* Retrieve a list of all transfers for a specified company
+* Retrieve a single transfer for a specified company
+* Add a new transfer for a specified company
 
 ## Data model
 

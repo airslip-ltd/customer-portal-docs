@@ -18,7 +18,7 @@ In Airslip, an invoice contains details of:
 > 
 > Invoice PDF downloads
 > 
-> You can [download a PDF version](https://api.codat.io/swagger/index.html#/Invoices/get_companies__companyId__data_invoices__invoiceId__pdf) of an invoice for supported integrations.
+> You can download a PDF version of an invoice for supported integrations.
 > 
 > The filename will be invoice-{number}.pdf.
 

@@ -1,6 +1,6 @@
 # Reference types
 
-<p class="description">Reference types link between data types in the Codat accounting data model.</p>
+<p class="description">Reference types link between data types in the Airslip accounting data model.</p>
 
 ## account-ref
 

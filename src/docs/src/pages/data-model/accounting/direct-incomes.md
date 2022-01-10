@@ -8,9 +8,9 @@ Direct incomes include:
 
 From the Direct Incomes endpoints, you can:
 
-* [Get a list of all direct incomes for a specific company](https://api-uat.codat.io/swagger/index.html#/DirectIncomes/get_companies__companyId__connections__connectionId__data_directIncomes)
-* [Get a single direct income for a specific company and connection](https://api-uat.codat.io/swagger/index.html#/DirectIncomes/get_companies__companyId__connections__connectionId__data_directIncomes__directIncomeId_)
-* [Add a new direct income to a specific company's accounting package](https://api-uat.codat.io/swagger/index.html#/DirectIncomes/post_companies__companyId__connections__connectionId__push_directIncomes)
+* Get a list of all direct incomes for a specific company]
+* Get a single direct income for a specific company and connection
+* Add a new direct income to a specific company's accounting package
 
 ## Data model
 

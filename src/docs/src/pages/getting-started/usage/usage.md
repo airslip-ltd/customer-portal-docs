@@ -15,25 +15,25 @@ By going to one of the above links and entering your login credentials provided 
 
 *Logic Screen*
 
-![Dashboard Image 1](https://static.wikia.nocookie.net/theallever/images/0/0a/THE_Preview_logo.jpg/revision/latest/scale-to-width-down/700?cb=20201013032038)
+![Login Screen](/src/docs/public/static/images/screenshots/login.png)
 
 ## How do I invite a business?
 
-Write here
+To invite a business all you need is the business name, contact name and contact details. You can either generate a unique invitiation link to copy and send to your customers or send an invitation directly from the portal.
 
 *Invite Business Screen*
 
-![Dashboard Image 1](https://static.wikia.nocookie.net/theallever/images/0/0a/THE_Preview_logo.jpg/revision/latest/scale-to-width-down/700?cb=20201013032038)
+![Invite Business](/src/docs/public/static/images/screenshots/invite.png)
 
 ## How does a business link their banking, commerce or banking platform?
 
-Write here
+An SME will receive an invitation link, either from you with the unique invitation link or directly from the portal via email. The SME is then navigated to the portal to sign up and link its's providers.
 
 *Add Provider Screen*
 
-![Dashboard Image 1](https://static.wikia.nocookie.net/theallever/images/0/0a/THE_Preview_logo.jpg/revision/latest/scale-to-width-down/700?cb=20201013032038)
+![Add Bank](/src/docs/public/static/images/screenshots/add-bank.png)
 
-
+![Add Commerce](/src/docs/public/static/images/screenshots/add-commerce.png)
 
 ## Next steps
 

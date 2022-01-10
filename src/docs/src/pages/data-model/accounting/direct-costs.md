@@ -2,16 +2,16 @@
 
 Direct costs include:
 
-* Purchasing an item and paying it off at the point of the purchase
-* Receiving cash from a refunded item if the refund is made by the supplier
-* Withdrawing money from a bank account
-* Writing a cheque
+- Purchasing an item and paying it off at the point of the purchase
+- Receiving cash from a refunded item if the refund is made by the supplier
+- Withdrawing money from a bank account
+- Writing a cheque
 
 From the Direct Costs endpoints, you can:
 
-* [Get a list of all direct costs for a specific company](https://api.codat.io/swagger/index.html#/DirectCosts/get_companies__companyId__connections__connectionId__data_directCosts)
-* [Get a single direct cost for a specific company](https://api.codat.io/swagger/index.html#/DirectCosts/get_companies__companyId__connections__connectionId__data_directCosts__directCostId_)
-* [Add a new direct cost to a specific company's accounting package](https://api.codat.io/swagger/index.html#/DirectCosts/post_companies__companyId__connections__connectionId__push_directCosts)
+- Get a list of all direct costs for a specific company
+- Get a single direct cost for a specific company
+- Add a new direct cost to a specific company's accounting package
 
 
 ## Data model

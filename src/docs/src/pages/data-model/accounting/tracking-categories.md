@@ -11,10 +11,10 @@ From their accounting system, customers can:
 - View the categories that a transaction belongs to.
 - View all transactions in a tracking category.
 
-From the [TrackingCategories](https://api.codat.io/swagger/index.html#/TrackingCategories) endpoints, you can retrieve:
+From the TrackingCategories endpoints, you can retrieve:
 
-- A [list of the latest tracking categories](https://api.codat.io/swagger/index.html#/TrackingCategories/TrackingCategories_ListPaged) for a company.
-- The details of a [specific tracking category](https://api.codat.io/swagger/index.html#/TrackingCategories/TrackingCategories_Single).
+- A list of the latest tracking categories
+- The details of a specific tracking category.
 
 > 
 > Example use case

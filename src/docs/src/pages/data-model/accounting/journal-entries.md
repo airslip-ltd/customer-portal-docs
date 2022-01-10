@@ -1,6 +1,6 @@
 # Journal entries
 
-A journal entry report shows the entries made in a company's general ledger, or [chart of accounts](https://api.codat.io/swagger/index.html#/Accounts/get_companies__companyId__data_accounts), when transactions are approved. The journal line items for each journal entry should balance.
+A journal entry report shows the entries made in a company's general ledger, or chart of accounts, when transactions are approved. The journal line items for each journal entry should balance.
 
 A journal entry line item is a single transaction line on the journal entry. For example:
 

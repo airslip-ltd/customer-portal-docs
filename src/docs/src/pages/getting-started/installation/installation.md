@@ -23,7 +23,7 @@ The Airslip Portal enables you to:
 
 *Dashboard Preview*
 
-![Dashboard Image 1](https://static.wikia.nocookie.net/theallever/images/0/0a/THE_Preview_logo.jpg/revision/latest/scale-to-width-down/700?cb=20201013032038)
+![Dashboard Preview](/src/docs/public/static/images/screenshots/dashboard.png)
 
 ## Next steps
 

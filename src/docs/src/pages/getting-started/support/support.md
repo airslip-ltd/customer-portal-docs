@@ -1,129 +1,42 @@
 # Support
 
-<p class="description">From community help to premium critical business support, we're here to help.</p>
+<p class="description">We're here to help.</p>
 
-## Community help (free)
+## How do I contact support?
 
-The community is your first stop for questions and advice about the framework. Welcome to the community!
+If the documentation isn't quite clear enough do no hesitate to reach out to <support@airslip.com>.
 
-### StackOverflow
+> 💡 **Tip**: To speed things up and if you have one, include the tracking-id in your support requests.
 
-For crowdsourced answers from expert MUI developers in our community.
-StackOverflow is also visited from time to time by the maintainers of MUI.
+## What should I include in the body of the email?
 
-[Post a question](https://stackoverflow.com/questions/tagged/mui)
+- What business is experiencing the issue?
 
-> 💡 **Tip**: If you're using an older version and use external resources (such as StackOverflow) for help with it, you may find answers with links that direct you to content that no longer exists in the latest version of the documentation. To easily access any previous version of the docs, simply add `v[number]` at the beginning of the URL, like so: [v4.mui.com](https://v4.mui.com/).
+- What was the user trying to achieve?
 
-### GitHub
+- Attach screenshots
 
-MUI uses GitHub issues as a bug and feature request tracker.
-If you think you have found a bug, or have a new feature idea, please start by making sure it hasn't already been [reported or fixed](https://github.com/mui-org/material-ui/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aclosed). You can search through existing issues and pull requests to see if someone has reported one similar to yours.
+- Include the tracking-id if you are using the APIs directly
 
-- [Open an issue on MUI Core](https://github.com/mui-org/material-ui/issues/new/choose)
-- [Open an issue on MUI X](https://github.com/mui-org/material-ui-x/issues/new/choose)
+## What can I expect?
 
-#### New issue guidelines
+- An automated mail notifying you of the ticket number
 
-- Please follow the issue template.
-- Please begin the title with '[ComponentName]' where appropriate, and use a succinct description that helps others find similar issues.
-  - "doesn't work" ❌
-  - "[Button] Add support for <some feature>" ✅
-- Please don't group multiple topics in one issue – each should have its own issue instead.
-- Please don't comment "+1" on an issue. It spams the maintainers and doesn't help move the issue forward. Use GitHub reactions instead (👍).
+- First contact message from a member of the support team to inform you on our first findings and analyses, provide immediate troubleshooting steps or request additional information.
 
-### Blog 📝
+## What happens next?
 
-Stay up to date with the development of the library by following the blog.
+### The issue reported might be configuration-based:
 
-[Read the latest posts](https://medium.com/material-ui)
+- The team might be able to provide immediate help to fix the problem. This might include asking you to queue a new sync, create a new company, reinstall the connector, etc.
 
-### Resources 📖
+- When relevant and if requested, the team can provide step-by-step guidance on how to complete these tasks.
 
-New to MUI? It's easy to learn if you know where to start!
+### The issue reported might be a product feature request:
+- An Idea will be created internally for the Product team to review, provide feedback and decide whether it should be added in the roadmap.
 
-[Learn MUI](/getting-started/learn/)
+### The issue reported might be a bug:
+- he team will raise a bug with our engineering teams for them to review.
 
-### Twitter
-
-Receive the latest news on MUI.
-
-[Follow us](https://twitter.com/MaterialUI)
-
-### Supported versions
-
-MUI Core has been open-source ([MIT](https://tldrlegal.com/license/mit-license)) since the very beginning, and always will be.
-Developers can ensure MUI is the right choice for their React applications through MUI's community maintenance strategy.
-The MUI team regularly ships new releases, bug fixes, and is very welcoming to community pull requests.
-
-Given the reality of time and resource constraints, as well as the desire to keep innovating, over time it becomes necessary to shift focus to newer versions of the framework ([our release schedule](https://mui.com/versions/#release-frequency)), while making the transition to newer versions as smooth as possible, including publishing migration guides such as [this one for v5](/guides/migration-v4/).
-The open-source community is always welcome to submit new features and bug fixes as well.
-
-The current status of each MUI version is as follows:
-
-- MUI Core v5 (emotion): ✅ In active development.
-- MUI Core v4 (hooks): ⚠️ Only handle security fixes.
-- MUI Core v3 (change supported browsers): ❌ Inactive.
-- ~MUI Core v2 (never existed)~.
-- MUI Core v1 (rewrite): ❌ Inactive.
-- MUI Core v0.x: ❌ Inactive.
-
-For teams and organizations that require additional support for older versions, MUI has [options available](#professional-support-premium).
-
-## Professional support (premium)
-
-### Pro/Premium plans
-
-MUI comes in [three plans](/pricing/).
-The support available on the Community plan is mostly made possible thanks to people like you: the community. It's described in more detail in the above section. The maintainers of MUI focuses on solving the root issues, not direct support.
-
-The Pro plan allows developers to license extra features that are challenging to find in the OSS space.
-The maintainers of MUI provide support for these paid features.
-They aim for a similar quality of experience to the one provided by the community on the open-source modules
-however no SLAs are provided.
-
-The Premium plan goes one step further by providing SLAs on the quality of the support.
-
-### Tidelift subscription
-
-MUI and the maintainers of thousands of other packages are working with Tidelift to deliver one enterprise subscription that covers all of the open-source you use.
-
-If you want the flexibility of open-source and the confidence of commercial-grade software, this is worth looking at.
-
-The Tidelift Subscription manages your dependencies for you:
-
-- Get the tools you need to continuously catalog and understand the open-source software that your application depends on.
-- Your subscription helps pay the open-source community maintainers of the packages you use, to ensure they meet the standards you require.
-- Address issues proactively, with tools that scan for new security, licensing, and maintenance issues, and alert participating open-source maintainers so they can resolve them on your behalf.
-- Tidelift helps measure and improve your open-source dependencies' health – which improves your app's health – and gives a shortlist of high-impact steps your team can take to improve them even more.
-- Get commercial assurances that don't come for free with open-source packages, such as intellectual property indemnification and support under a service level agreement. You expect these guarantees from proprietary software, and you can get them when using open-source as well.
-
-The end result? All of the capabilities you expect from commercial-grade software, for the full breadth of open-source you use. That means less time grappling with esoteric open-source trivia, and more time building your own applications – and your business.
-
-<a
-  data-ga-event-category="support"
-  data-ga-event-action="tidelift"
-  href="https://tidelift.com/subscription/pkg/npm-material-ui?utm_source=npm-material-ui&utm_medium=referral&utm_campaign=enterprise">
-Get more details
-</a>
-
-<a
-  data-ga-event-category="support"
-  data-ga-event-action="tidelift"
-  href="https://tidelift.com/subscription/request-a-demo?utm_source=npm-material-ui&utm_medium=referral&utm_campaign=enterprise">
-Request a demo
-</a>
-
-### Custom work 🛠
-
-Tweak MUI to meet specific requirements. Give us a summary of your needs and we'll help you if we can. We might:
-
-- Give you an estimate of time and price if the work is straightforward
-- Suggest alternatives that might not require MUI
-- Decline the work due to timing or relevancy
-
-Note that work must be MUI related.
-We don't accept general React development work.
-Our contracting price is $200/hour or $1,500/day.
-
-[Send us an email](mailto:custom-work@mui.com)
+- We are not always able to provide a timeline for bug fixes, but the information provided in the body of your mail, specifically in the Issue and Context sections, influence the prioritisation of the backlog.
+Therefore, we recommend that you provide as much details as possible in those sections.
