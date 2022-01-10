@@ -3,7 +3,9 @@ import ROUTES from 'docs/src/route';
 
 export default function Home() {
 
-  window.location.href = ROUTES.documentation;
+  if (typeof window !== "undefined") {
+    window.location.href = ROUTES.documentation;
+  }
 
   return (
     <React.Fragment />
