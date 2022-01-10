@@ -34,6 +34,8 @@ locals {
   certificate_thumbprint = var.certificate_thumbprint
 }
 
+data "azurerm_client_config" "current" {}
+
 module "web_app" {
   source = "./tf_modules/Airslip.Terraform.Modules/recipes/node_js_web_app"
 
