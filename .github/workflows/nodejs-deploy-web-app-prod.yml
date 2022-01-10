@@ -61,7 +61,7 @@ jobs:
       run: |
         yarn install
         yarn release:build
-      working-directory: ./env
+      working-directory: ./src
 
     - name: add process.json
       run: |
