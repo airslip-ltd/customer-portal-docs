@@ -66,7 +66,6 @@ jobs:
 
     - name: add process.json
       run: |
-        cd ${{ env.PUBLISH_PATH }}
         echo '{ script: "serve", env: { PM2_SERVE_SPA: "true", PM2_SERVE_HOMEPAGE: "/index.html" } }' >> ${{ env.PUBLISH_PATH }}/export/process.json
 
     - name: Get AppService publish profile
