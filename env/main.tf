@@ -19,7 +19,7 @@ locals {
     Environment = "${var.environment}"
   }
   app_id = "customer-portal-docs"
-  app_id_short = "cpdocs"
+  app_id_short = "docs"
   short_environment = var.short_environment
   location = var.location
   app_tier = var.web_tier
@@ -33,8 +33,6 @@ locals {
   hostname = var.hostname
   certificate_thumbprint = var.certificate_thumbprint
 }
-
-data "azurerm_client_config" "current" {}
 
 module "web_app" {
   source = "./tf_modules/Airslip.Terraform.Modules/recipes/node_js_web_app"

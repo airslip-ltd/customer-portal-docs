@@ -30,3 +30,19 @@ build
 node_modules
 package-lock.json
 size-snapshot.json
+
+# Terraform 
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfplan
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+*.lock.*
+*.secrets.tfvars
+secrets.tfvars
+env/tf_modules
+.eslintcache
