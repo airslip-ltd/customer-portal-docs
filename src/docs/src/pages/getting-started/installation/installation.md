@@ -1,8 +1,8 @@
 # Overview
 
-<p class="description">Get real-time financial data on your clients through visual dashboards.</p>
+<p class="description">The platform for real-time financial insights on SMEs for Financial Institutions.</p>
 
-Airslip enables financial institutions to access real-time financial data on their business clients to help mitigate risk & exposure for loans, insurance and trade credit.
+Airslip enables [Financial Institutions](/glossary/glossary#financial-institutions) to access real-time financial data on their business clients to help mitigate risk & exposure for loans, insurance and trade credit.
 
 Airslip provides a web-based portal that allows you to utilise business financial data through our banking, commerce and accounting integrations without technical development. The portal enables you to assess the financial health of your business customers through visually appealing dashboards.
 
