@@ -13,7 +13,7 @@ The Airslip API powers the portal, which means that the functionality in the por
 The Airslip Portal enables you to:
 
 - View common accounting [statistic & metrics](/components/overview/)
-- View real-time sales data through banking, commerce and accounting platforms
+- View real-time data through banking, commerce, accounting and payments platforms
 - View bank transactions for connected businesses and all bank accounts
 - Create and invite businesses
 - Create users (usually your colleagues)
