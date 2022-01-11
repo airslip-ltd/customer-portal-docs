@@ -108,7 +108,7 @@ function reduceChildRoutes(context) {
     return items;
   }
 
-  if (page.children && page.children.length > 1) {
+  if (page.children && page.children.length > 0) {
     const title = pageToTitleI18n(page, t);
     const topLevel = activePage ? activePage.pathname.indexOf(`${page.pathname}/`) === 0 : false;
 

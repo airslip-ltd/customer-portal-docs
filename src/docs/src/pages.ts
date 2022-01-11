@@ -64,8 +64,7 @@ const pages: readonly MuiPage[] = [
         subheader: '/components/leverage',
         title: 'Leverage',
         children: [
-          { pathname: '/components/debt-to-equity-ratio', title: 'Debt-to-equity ratio' },
-          { pathname: '/components/debt-to-equity-ratio', title: 'Debt-to-equity ratio' },
+          { pathname: '/components/debt-to-equity-ratio', title: 'Debt-to-equity ratio' }
         ],
       },
       {
@@ -100,8 +99,7 @@ const pages: readonly MuiPage[] = [
         subheader: '/components/valuation',
         title: 'Valuation',
         children: [
-          { pathname: '/components/earnings-per-share', title: 'Earnings per share' },
-          { pathname: '/components/earnings-per-share', title: 'Earnings per share' },
+          { pathname: '/components/earnings-per-share', title: 'Earnings per share' }
         ],
       },
     ],
@@ -203,7 +201,6 @@ const pages: readonly MuiPage[] = [
     pathname: '/glossary',
     icon: 'StyleIcon',
     children: [
-      { pathname: '/glossary/glossary' },
       { pathname: '/glossary/glossary' },
     ],
   },
