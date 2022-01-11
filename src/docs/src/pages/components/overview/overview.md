@@ -4,7 +4,6 @@
 
 > Statistics & Metrics are all in development at the moment but expect to see the below very soon. You will be informed with product updates in our monthly email.
 
-
 - [Accounts payable turnover](/components/accounts-payable-turnover/)
 
 - [Accounts receivable turnover](/components/accounts-receivable-turnover/)

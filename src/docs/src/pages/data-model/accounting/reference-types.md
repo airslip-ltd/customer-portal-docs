@@ -156,14 +156,3 @@ Found on:
     "id": "string",  // 'id' from the 'trackingCategories' data type
     "name": "string" // 'name' from the 'trackingCategories' data type
 }
-```
-* [Bills](/data-model/accounting/bills)
-* [Invoices](/data-model/accounting/invoices)
-* [Purchase orders](/data-model/accounting/purchase-orders)
-
-```json
-"tracking-category-ref": {
-    "id": "string",  // 'id' from the 'trackingCategories' data type
-    "name": "string" // 'name' from the 'trackingCategories' data type
-}
-```
