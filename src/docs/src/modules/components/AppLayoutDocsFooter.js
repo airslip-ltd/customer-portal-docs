@@ -247,67 +247,6 @@ export default function AppLayoutDocsFooter() {
   return (
     <React.Fragment>
       <Footer>
-        {hidePagePagination ? null : (
-          <React.Fragment>
-            <Divider />
-            <PaginationDiv>
-              {prevPage !== null ? (
-                <PageLinkButton
-                  component={Link}
-                  noLinkStyle
-                  href={prevPage.pathname}
-                  {...prevPage.linkProps}
-                  size="medium"
-                  startIcon={<ChevronLeftIcon />}
-                >
-                  {pageToTitleI18n(prevPage, t)}
-                </PageLinkButton>
-              ) : (
-                <div />
-              )}
-              <FeedbackGrid
-                container
-                role="group"
-                justifyContent="center"
-                alignItems="center"
-                aria-labelledby="feedback-message"
-              >
-                <FeedbackMessage
-                  align="center"
-                  component="div"
-                  id="feedback-message"
-                  variant="body2"
-                >
-                  {t('feedbackMessage')}
-                </FeedbackMessage>
-                <div>
-                  <Tooltip title={t('feedbackYes')}>
-                    <IconButton onClick={handleClickThumb(1)} aria-pressed={rating === 1}>
-                      <ThumbUpIcon fontSize="small" color={rating === 1 ? 'primary' : undefined} />
-                    </IconButton>
-                  </Tooltip>
-                  <Tooltip title={t('feedbackNo')}>
-                    <IconButton onClick={handleClickThumb(0)} aria-pressed={rating === 0}>
-                      <ThumbDownIcon fontSize="small" color={rating === 0 ? 'error' : undefined} />
-                    </IconButton>
-                  </Tooltip>
-                </div>
-              </FeedbackGrid>
-              {nextPage !== null ? (
-                <PageLinkButton
-                  component={Link}
-                  noLinkStyle
-                  href={nextPage.pathname}
-                  {...nextPage.linkProps}
-                  size="medium"
-                  endIcon={<ChevronRightIcon />}
-                >
-                  {pageToTitleI18n(nextPage, t)}
-                </PageLinkButton>
-              ) : null}
-            </PaginationDiv>
-          </React.Fragment>
-        )}
         <Collapse in={commentOpen} unmountOnExit onEntered={handleEntered}>
           <form
             aria-labelledby="feedback-message"

@@ -82,6 +82,9 @@ function AppLayoutDocs(props) {
       <Main disableToc={disableToc}>
         <StyledAppContainer>
           {children}
+          <NoSsr>
+            <AppLayoutDocsFooter />
+          </NoSsr>
         </StyledAppContainer>
         {disableToc ? null : <AppTableOfContents toc={toc} />}
       </Main>
