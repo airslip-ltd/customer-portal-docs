@@ -2313,7 +2313,7 @@
     glob-to-regexp "^0.3.0"
 
 "@mui/core@^5.0.0-alpha.54":
-  version "5.0.0-alpha.61"
+  version "5.0.0-alpha.63"
   dependencies:
     "@babel/runtime" "^7.16.3"
     "@emotion/is-prop-valid" "^1.1.1"
@@ -2324,7 +2324,7 @@
     react-is "^17.0.2"
 
 "@mui/core@link:./packages/mui-base":
-  version "5.0.0-alpha.61"
+  version "5.0.0-alpha.63"
   dependencies:
     "@babel/runtime" "^7.16.3"
     "@emotion/is-prop-valid" "^1.1.1"
@@ -11264,10 +11264,10 @@ markdown-to-jsx@*, markdown-to-jsx@^7.1.5:
   resolved "https://registry.yarnpkg.com/markdown-to-jsx/-/markdown-to-jsx-7.1.5.tgz#caf72ad8a8c34a2bb692c4d17e44aabbe4eb19fd"
   integrity sha512-YQEMMMCX3PYOWtUAQu8Fmz5/sH09s17eyQnDubwaAo8sWmnRTT1og96EFv1vL59l4nWfmtF3L91pqkuheVqRlA==
 
-marked@^3.0.8:
-  version "3.0.8"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-3.0.8.tgz#2785f0dc79cbdc6034be4bb4f0f0a396bd3f8aeb"
-  integrity sha512-0gVrAjo5m0VZSJb4rpL59K1unJAMb/hm8HRXqasD8VeC8m91ytDPMritgFSlKonfdt+rRYYpP/JfLxgIX8yoSw==
+marked@^4.0.10:
+  version "4.0.10"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-4.0.10.tgz#423e295385cc0c3a70fa495e0df68b007b879423"
+  integrity sha512-+QvuFj0nGgO970fySghXGmuw+Fd0gD2x3+MqCWLIPf5oxdv1Ka6b2q+z9RP01P/IaKPMEramy+7cNy/Lw8c3hw==
 
 material-ui-popup-state@^2.0.0:
   version "2.0.0"
