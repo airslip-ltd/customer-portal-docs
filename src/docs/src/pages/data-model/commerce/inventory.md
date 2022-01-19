@@ -23,11 +23,21 @@
 
 - Active
 - Inactive
-<!-- 
+
 ## Example data
 
 ```json
 {
-  "property-to-go-here": "value-to-go-here"
+  "id": "ca9e85e0-0478-433d-ae9f-0b3c4f04bfe4",
+  "name": "Amazing Toothpaste",
+  "code": "T123",
+  "description": "A description about a product",
+  "total": 1299,
+  "state": "Active",
+  "is-vat-enabled": false,
+  "vat-rate": "20",
+  "release-date": "2021-03-31T12:45:01Z",
+  "shippable": false,
+  "created-date": "2022-01-10T14:57:43Z",
 }
-``` -->
+```

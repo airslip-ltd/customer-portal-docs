@@ -17,7 +17,7 @@
 
 - [Current accounts payable (AP) ratio](/components/current-accounts-payable-ratio/)
 
-- [Current rccounts receivable (AR) ratio](/components/current-accounts-receivable-ratio/)
+- [Current accounts receivable (AR) ratio](/components/current-accounts-receivable-ratio/)
 
 - [Current ratio](/components/current-ratio/)
 
@@ -47,6 +47,8 @@
 
 - [Operating cash flow](/components/operating-cash-flow/)
 
+- [Operating margin](/components/operating-margin/)
+
 - [Payroll headcount ratio](/components/payroll-headcount-ratio/)
 
 - [Quick ratio/acid test](/components/quick-ratio/)
@@ -56,8 +58,6 @@
 - [Sales growth rate](/components/sales-growth-rate/)
 
 - [Selling, General and Administrative (SG&A) Ratio](/components/selling-general-administrative-ratio/)
-
-- [Operating margin](/components/operating-margin/)
 
 - [Time-based recurring revenue (ARR/MRR)](/components/recurring-revenue/)
 
