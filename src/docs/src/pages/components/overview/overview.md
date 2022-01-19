@@ -27,6 +27,10 @@
 
 - [Days sales outstanding](/components/days-sales-outstanding/)
 
+- Debtor Days
+
+- Creditor Days
+
 - [Debt-to-equity ratio](/components/debt-to-equity-ratio/)
 
 - [Direct cost](/components/direct-cost/)
