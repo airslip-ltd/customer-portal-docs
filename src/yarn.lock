@@ -2313,7 +2313,7 @@
     glob-to-regexp "^0.3.0"
 
 "@mui/core@^5.0.0-alpha.54":
-  version "5.0.0-alpha.61"
+  version "5.0.0-alpha.63"
   dependencies:
     "@babel/runtime" "^7.16.3"
     "@emotion/is-prop-valid" "^1.1.1"
@@ -2324,7 +2324,7 @@
     react-is "^17.0.2"
 
 "@mui/core@link:./packages/mui-base":
-  version "5.0.0-alpha.61"
+  version "5.0.0-alpha.63"
   dependencies:
     "@babel/runtime" "^7.16.3"
     "@emotion/is-prop-valid" "^1.1.1"
@@ -16157,9 +16157,9 @@ trim-newlines@^3.0.0:
   integrity sha512-C4+gOpvmxaSMKuEf9Qc134F1ZuOHVXKRbtEflf4NTtuuJDEIJ9p5PXsalL8SkeRw+qit1Mo+yuvMPAKwWg/1hA==
 
 trim-off-newlines@^1.0.0:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/trim-off-newlines/-/trim-off-newlines-1.0.1.tgz#9f9ba9d9efa8764c387698bcbfeb2c848f11adb3"
-  integrity sha1-n5up2e+odkw4dpi8v+sshI8RrbM=
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/trim-off-newlines/-/trim-off-newlines-1.0.3.tgz#8df24847fcb821b0ab27d58ab6efec9f2fe961a1"
+  integrity sha512-kh6Tu6GbeSNMGfrrZh6Bb/4ZEHV1QlB4xNDBeog8Y9/QwFlKTRyWvY3Fs9tRDAMZliVUwieMgEdIeL/FtqjkJg==
 
 trim-right@^1.0.1:
   version "1.0.1"
