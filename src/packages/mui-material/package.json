@@ -2,8 +2,8 @@
   "name": "@mui/material",
   "version": "5.2.7",
   "private": false,
-  "author": "MUI Team",
-  "description": "Quickly build beautiful React apps. MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.",
+  "author": "Airslip",
+  "description": "View real-time commerce, accounting and banking data on your business customers.",
   "main": "./src/index.ts",
   "keywords": [
     "react",
@@ -14,14 +14,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mui-org/material-ui.git",
+    "url": "https://github.com/airslip-ltd",
     "directory": "packages/mui-material"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mui-org/material-ui/issues"
+    "url": "https://github.com/airslip-ltd/airslip/issues"
   },
-  "homepage": "https://mui.com/",
+  "homepage": "https://www.airslip.com",
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/mui"
