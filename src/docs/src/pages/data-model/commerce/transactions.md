@@ -10,6 +10,7 @@
 | **date** | `string` ([Date](/data-model/shared/date/)) | Time at which the transaction took place |
 | **bank-statement-description** | `string` | The exact text that will appear on the transactions bank statement |
 | **bank-statement-suffix** | `string` | Provides unique information about the charge that customers see on their statements, such as invoice number |
+| **merchant** | [Merchant](#merchant) | Identified merchant for the transaction |
 | **store-location-id** | `string` | The identification number of the store |
 | **store-address** | `string` | The complete store address on one line |
 | **line-items** |[LineItem](#line-item) | An array of [LineItem](#line-item) |
@@ -25,6 +26,13 @@
 | **transaction-detail** | [TransactionDetail](#transaction-detail) | Further properties about the in-store transaction. Often used to generate a barcode |
 | **payment-details** | [PaymentDetail](#payment-detail) | An array of [PaymentDetail](#payment-detail) |
 | **metadata** | `dictionary` | Any additional key-value pairs |
+
+### Merchant
+
+| Field | Type | Description |
+| :- | :- | :- |
+| **name** | `string` | The merchant name of the transaction | 
+| **category** | `string` | The standardised merchant [ISO-18245](#https://www.iso.org/standard/33365.html) code | 
 
 ### Line Item
 
@@ -82,21 +90,68 @@
 {
   "id": "ca9e85e0-0478-433d-ae9f-0b3c4f04bfe4",
   "date": "2022-01-10T14:57:43Z",
-  "bank-statement-description": "",
-  "bank-statement-suffix": "",
-  "store-location-id": "",
-  "store-address": "",
+  "bank-statement-description": "EASY_JET AIRLINES 16739348 *1234",
+  "bank-statement-suffix": "1234",
+  "store-location-id": "EJ123",
+  "store-address": "EasyJet Airline Company Ltd, Hangar 89, London Luton Airport, Luton, Bedfordshire,LU2 9PF, United",
   "line-items": [
     {
-      ""
+      "name":"Ticket to Dublin - D456 0903",
+      "code":"MODEL123",
+      "product-id": "898DB",
+      "description":"A one way ticket to Dublin.",
+      "sub-total":16.66,
+      "amount-total":19.99,
+      "quantity":"1",
+      "warranty-expiry-date": null,
+      "image-url":null,
+      "url":"https://www.easyjet.com/en/holidays/united-kingdom",
+      "sku":"UGG-BB-PUR-06",
+      "vatRate":{
+        "A":"20"
+      }
     }
   ],
-  "": "",
-  "": "",
-  "": "",
-  "": "",
-  "": "",
-  "": "",
-  "": "",
+  "merchant": {
+    "name": "EasyJet",
+    "category-code": "4511",
+  },
+  "is-e-commerce": false,
+  "subtotal": 1669,
+  "service-charge": 0,
+  "discounts": [
+    {
+      "name": "voucher",
+      "amount": 500,
+    }
+  ],
+  "vat-rates": [
+    {
+        "code": "voucher",
+        "rate": 500,
+        "amount": 500,
+    }
+  ],
+  "total": 1999,
+  "currency‑code": "GBP",
+  "customer-email": "customer@easyjetairline.com",
+  "operator-name": "Teresa Smith",
+  "transaction-detail": {
+    "date": "2022-01-10T14:57:43Z",
+    "time": "14:57:43",
+    "till": "1",
+    "number": "45",
+    "store": "EJ123"
+  },
+  "payment-details": [
+    {
+      "method": "card",
+      "amount": 1500,
+    },
+    {
+      "method": "cash",
+      "amount": 499,
+    },
+  ],
+  "metadata": null
 }
-```
